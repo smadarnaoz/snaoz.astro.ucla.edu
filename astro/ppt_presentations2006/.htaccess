@@ -1,0 +1,6 @@
+AuthUserFile /home/wise-web/dovip/.htpasswd
+AuthGroupFile /dev/null
+AuthName RestrictedZone
+AuthType Basic
+
+require user astro

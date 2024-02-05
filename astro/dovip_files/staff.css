@@ -1,0 +1,12 @@
+BODY {
+background-image: url(http://minerva.tau.ac.il/icons/sea1.gif);
+color:black;
+}
+
+TABLE{
+width:400;
+     }
+
+A:active  { color: blue; }
+A:visited { color: red; }
+

@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Reddened 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20131026d
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Naoz's Research</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if IE 6]>
+<link href="default_ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h2><a href="index.html">Smadar Naoz</a></h2>
+				<p style="font-size:18px">Department of Physics & Astronomy, Division of Astronomy and Astrophysics, UCLA </p>
+			</div>
+              <!--
+			<div id="social">
+				<ul class="contact">
+					<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
+					<li><a href="#" class="icon icon-facebook"><span></span></a></li>
+					<li><a href="#" class="icon icon-dribbble"><span>Pinterest</span></a></li>
+					<li><a href="#" class="icon icon-tumblr"><span>Google+</span></a></li>
+					<li><a href="#" class="icon icon-rss"><span>Pinterest</span></a></li>
+				</ul>
+			</div>
+               -->
+		</div>
+		<div id="menu" class="container">
+			<ul>
+				<li><a href="index.html" accesskey="1" title="">Home</a></li>
+				<li class="current_page_item"><a href="NaozResearch.html" accesskey="1" title="">Research</a></li>
+				<li><a href="NTODEI.html" accesskey="2" title="">Teaching, Outreach  &amp; DEI</a></li>
+				<li><a href="NMedia.html" accesskey="4" title="">In the Media</a></li>
+				<li><a href="NaozPersonal.html" accesskey="5" title="">Personal</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="post">
+                
+				<h1>Research group</h1>
+                <p> <a href="NaozResearch.html" class="button" >Research</a>
+               <a href="NaozGroup.html" class="button" style="color:blue">Group</a>
+                               <a href="NHJs.html" class="button">Hot Jupiters</a>
+                               <a href="NEKL.html" class="button">EKL</a>
+                               <a href="NFGalaxies.html" class="button">The First Galaxies</a>
+                               <a href="NSIGOs.html" class="button">SIGOs</a>
+                               </p>
+<br>
+            
+                            <p style="font-size:24px"> Group Pictures</p>
+
+<!--
+
+            <table  >
+                 <tr>
+                  <th>
+                      
+                        <figure>
+                   <img src="group/group2017.png" alt="example graphic"  style="width:350px;" >
+                   <figcaption> <font size="-1">Thanksgiving lunch 2017</font> </figcaption>
+                 </figure>
+                        </th>
+                        <th>
+                             <figure>
+                          <img src="group/ThanksG2019.png" alt="example graphic"  style="width:300px;" >
+                          <figcaption> <font size="-1">Thanksgiving lunch 2019</font> </figcaption>
+                        </figure>
+                 </th>
+                        </tr>
+                             
+                             <tr>
+                              <th>
+                                  
+                                    <figure>
+                               <img src="group/halloween2019.png" alt="example graphic"  style="width:350px;" >
+                               <figcaption> <font size="-1">Halloween 2019 </font> </figcaption>
+                             </figure>
+                                    </th>
+                                    <th>
+                                         <figure>
+                                      <img src="group/GroupPicF.png" alt="example graphic"  style="width:350px;" >
+                                      <figcaption> <font size="-1">group meeting on zoom, spring 2020</font> </figcaption>
+                                    </figure>
+                             </th>
+                                    </tr>
+                 </table>
+
+    -->
+          <figure>
+                                      <img src="group/GroupPictures.jpg" alt="example graphic"  style="width:750px;" >
+                                      <figcaption> <font size="-1">Group meetings and plot party</font> </figcaption>
+                                    </figure>
+             <p style="font-size:24px">  <b> Current members </b>
+            
+             </p>
+
+              <font size="+1"> Postdoc </font>
+  <table  border="0">
+<!-- <tr>
+ <td>
+ <span class="center">
+ <figure>
+<img src="group/Storres.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1"><a href="http://santiago-torres.com">  Santiago Torres </a> </font> 
+</figure>
+ </span>
+  </td>
+-->
+ <td>
+ <span class="center">
+ <figure>
+ <img src="group/Erez.jpg" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1"><a href="https://www.erezmichaely.com/">  Erez Michaely </a> </font> 
+</figure>
+ </span>
+  </td>
+<!--
+
+ <td>
+ <span class="center">
+ <figure>
+ <img src="group/Brenna.png" alt="example graphic"  style="width:140px;" >
+   <figcaption> <font size="+1"><a href="https://people.ucsc.edu/~bmockler/">  Brenna Mockler </a> </font> 
+</figure>
+ </span>
+  </td>
+-->
+</tr>
+  </table>
+              <font size="+1"> Grad students </font>
+             
+             <table  border="0">
+<tr>
+
+<!--
+ <td>
+<span class="center">
+<figure>
+  <img src="group/SanaeaRose.png" alt="example graphic"  style="width:120px;" >
+  <figcaption> <font size="+1"><a href="https://sites.google.com/wellesley.edu/srose/home"> Sanaea Rose</a> </font> </figcaption>
+</figure>
+</span>
+ </td>
+ -->
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/IsabelAngelo.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1"><a href="https://sites.google.com/g.ucla.edu/isabelangelo">Isabel Angelo</a> </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/Theaheadshot.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1"> Thea Faridani </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/WilliamLake.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1">  William Lake </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/DenyzMelchoor.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1">  Denyz Melchor </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+
+ </tr>
+<tr>
+
+ 
+ 
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/LizHolzknecht.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1">  Liz  Holzknecht </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+  <td>
+ <span class="center">
+ <figure>
+   <img src="group/Claire.jpg" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1"> <a href="https://www.astro.ucla.edu/~clairewilliams/">Claire Williams</a> </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+ 
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/ZeyuanXuan.png" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1"> <a href="https://www.physics.ucla.edu/~zeyuan.xuan/index.html"> Zeyuan Xuan </a></font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+ <td>
+ <span class="center">
+ <figure>
+   <img src="group/Grant.jpg" alt="example graphic"  style="width:120px;" >
+   <figcaption> <font size="+1">  Grant Weldon </font> </figcaption>
+ </figure>
+ </span>
+  </td>
+
+</tr>
+</table>
+            
+            
+          <br>
+            
+            
+          <font size="+1"> Undergrad students </font>
+             <table  border="0">
+          <tr>
+          
+          <td>
+                        <span class="center">
+                        <figure>
+                          <img src="group/carlosJurado.png" alt="example graphic"  style="width:100px;" >
+                          <figcaption><br> <font size="+1"> Carlos Jurado</font> </figcaption>
+                        </figure>
+                        </span>
+                         </td>
+
+          <td>
+                        <span class="center">
+                        <figure>
+                          <img src="group/CheyanneShariat.jpeg" alt="example graphic"  style="width:120px;" >
+                          <figcaption><br> <font size="+1"> Cheyanne Shariat</font> </figcaption>
+                        </figure>
+                        </span>
+                         </td>
+         
+
+ <td>
+                        <span class="center">
+                        <figure>
+                          <img src="group/Nicholas_CASSI_web.jpeg" alt="example graphic"  style="width:95px;" >
+                          <figcaption><br> <font size="+1"> Nicholas Inzunza</font> </figcaption>
+                        </figure>
+                        </span>
+                         </td>
+         
+</tr>
+<tr>
+
+<td>
+                        <span class="center">
+                        <figure>
+                          <img src="group/Brayn.png" alt="example graphic"  style="width:120px;" >
+                          <figcaption><br> <font size="+1"> Brayan Hernandez</font> </figcaption>
+                        </figure>
+                        </span>
+                         </td>
+
+<td>
+  <span class="center">
+                        <figure>
+                          <img src="group/Lauren.jpeg" alt="example graphic"  style="width:150px;" >
+                          <figcaption><br> <font size="+1"> Lauren Harvey</font> </figcaption>
+                        </figure>
+                        </span>
+                         </td>
+
+ </tr>
+          </table>
+             <!--
+                      <ul>
+                          <li><font size="+1"><img src="group/Cheryl.png" alt="example graphic"  style="width:120px;" > Cheryl Wang </font> </li>
+                          <li><font size="+1">Eric Zhang </font> </li>
+                          <li><font size="+1">Cuc Dinh</font> </li>
+                          <li><font size="+1">Melodie Sloneker</font> </li>
+                          </ul>
+                              -->
+                             <br>
+                      <p style="font-size:24px">  <b> Former members </b> </p>
+                      
+                                 <font size="+1"> Postdocs </font>
+
+<ul>
+<li style="font-size:18px">
+     <font size="+1"> <a href="http://santiago-torres.com">  Santiago Torres </a> </font> October 2020 – August 2023; Now a Marie Curie fellow at Institute of Science and Technology Austria (ISTA) 
+</li>
+
+<li style="font-size:18px">
+     <font size="+1"> <a href="https://people.ucsc.edu/~bmockler/">  Brenna Mockler </a>  </font> August–December 2022, UC Chancellor fellow; Now a Carnegie fellow.
+</ul>
+
+                                 <font size="+1"> Grad students </font>
+                              
+                      <ul>
+<li style="font-size:22px">
+<a href="https://sites.google.com/wellesley.edu/srose/home"> Sanaea Rose</a>
+</font> (graduate student @ UCLA) Now a Lindheimer Fellow and a CIERA Fellow at CIERA NU </li>
+
+<li style="font-size:22px">
+ <a href="http://astro.ucla.edu/~bmhoang/">Bao-Minh Hoang</a> </font> (graduate student @ UCLA) Now working at Kall Morris Inc. (an orbital debris research and solution development company) 
+</li>
+
+
+                          <li style="font-size:18px">
+                           <font size="+1"> Jesus Salas </font> (graduate student @ UCLA) Now UCLA lecturer and Harvard-Westlake School faculty
+                          </li>
+                          <li style="font-size:18px">
+                            <font size="+1"> <a href="http://www.astro.ucla.edu/~alexpstephan/">Alexander Stephan</a> </font>  (graduate student @ UCLA) Now Buckeye Prize and presidential  postdoc fellow @ OSU
+                          </li>
+                          <li style="font-size:18px">
+                           <font size="+1"> Yeou Chiou </font> (graduate student @ UCLA) Now a Machine Learning Engineer at LinkedIn 
+                          </li>
+<li style="font-size:18px">
+  <font size="+1">  <a href="https://physics.gatech.edu/user/gongjie-li">Gongjie Li</a> </font>  (graduate student @ Harvard) was a Junior Fellow at the Society of Fellows at Harvard University. Now faculty @ Georgia Tech
+</li>
+<li style="font-size:18px">
+ <font size="+1"> Cristina Popa </font>  (graduate student @ Harvard) Now work @ Two Sigma Investments
+</li>
+
+</ul>
+                      
+<font size="+1"> Undergrad students </font>
+
+
+<ul>
+<!--
+<li> <font size="+1"> Cuc (Cookie) Dinh </font></li> (undergrad @ UCLA) Now a postbuc @ UCSC </li>
+-->
+<li> <font size="+1"> Melodie Sloneker  </font> (undergrad @ UCLA) Now a grad student @ Georgia State University </li>
+<li> <font size="+1"> Nitya Ravi  </font> (undergrad @ UCLA) Now a grad student @ University of Rochester </li>
+<li> <font size="+1">  Eric Zhan </font> (undergrad @ UCLA) Now a grad student @ UCR </li>
+<li> <font size="+1"> Huiyi (Cheryl) Wang </font> (undergrad @ UCLA) Now a grad student @ McGill University </li>
+    <li><font size="+1"><a href="https://shelleycheng.com/">Shelley Cheng </a></font> (undergrad @ UCLA) Now a grad student @ Harvard
+      </li>
+<li> <font size="+1"> Lingfeng Wei </font>(Cross-disciplinary Scholars in Science and Technology (CSST), UCLA summer program with China and Japan) Now a grad student @ UCSD </li>
+    <li><font size="+1">Paul Denham </font> (undergrad @ UCLA) Now a grad student @ UCLA
+    </li>
+    <li><font size="+1">Isabella Goetting </font> (undergrad @ UCLA) Now a grad student @ Duke University 
+    </li>
+    <li><font size="+1">Ahmed Qureshi </font> (undergrad @ UCLA) Now works @ Amazon
+       </li>
+    <li><font size="+1">Igor Van Der Put </font> (undergrad @ UCLA) Now a researcher @ UCLA
+    </li>
+
+<li><font size="+1"> <a href="http://www.ciceroxlu.org/">Cicero Xinyu Lu </a></font> (undergrad @ UCLA) Now a grad @ Johns Hopkins
+</li>
+
+<li> <font size="+1"> Joseph Guzman </font> (undergrad @ <a href="http://www.cpp.edu/~sci/physics-astronomy/research/cal-bridge.shtml"> Cal-Bridge </a> an\
+d REU @ UCLA) Now grad @ Florida State
+
+<li>
+<font size="+1">
+<a href="http://www.damtp.cam.ac.uk/user/jt591/">Jean Teyssandier </a></font>(undergrad @ Northwestern) Now postdoc @ Cornell
+</li>
+<li> <font size="+1"><a href="https://people.cam.cornell.edu/~iml32/">Ian Lizarraga</a> </font>(undergrad @ Northwestern) Now a Visiting Assistant Professor @ Cornell Math department
+</li>
+
+</ul>
+
+
+
+
+			</div>
+            
+			
+		</div>
+        
+        <!-- Side bar -->
+		<div id="sidebar1">
+			<div>
+				<h2> Contact Information</h2>
+                
+                <p style="font-size:20px">Email: snaoz@astro.ucla.edu </p>
+                <p style="font-size:20px"> Mailing:Physics and Astronomy Building 430 Portola Plaza, Box 951547 Los Angeles, CA 90095-1547
+Office: 3-907 </p>
+<p style="font-size:20px"> CV:  (<a href="Smadarcv.pdf">pdf</a>) </p>
+<p style="font-size:20px">  Publications:
+        (<a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22naoz%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">ADS</a>) </p>
+        
+        
+	</div>
+		</div>
+         <!-- End of Side bar -->
+        
+	</div>
+    
+    
+	<div id="portfolio-wrapper">
+		<div id="portfolio" class="container">
+            
+               <div class="title">
+                         
+                
+                   </div>
+                
+            <font size="+1">  <b> Funding sources</b></font>
+                          <br>
+                         
+                           <img src="images/NASA.png" alt="example graphic"  style="width:100px;" >
+                               <img src="images/NSF.png" alt="example graphic"  style="width:100px;" >
+                               <img src="images/XSEDE.png" alt="example graphic"  style="width:200px;" >
+                                       <img src="images/Sloan.png" alt="example graphic"  style="width:160px;" >
+                                                                                                                               <img src="images/Hellman.png" alt="example graphic"  style="width:160px;" >
+                                                                                                                                        
+                                                                                                                                <br>
+                                   <br>
+                 <font size="+0.5">   Special thanks to Howard and Astrid Preston for their generous support </font>
+            
+			
+            <!--
+			<div class="column1">
+				<div class="box">
+					<h3>Vestibulum venenatis</h3>
+					<p>Fermentum nibh augue praesent a lacus at urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>
+			<div class="column2">
+				<div class="box">
+					<h3>Praesent scelerisque</h3>
+					<p>Vivamus fermentum nibh in augue praesent urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>
+			<div class="column3">
+				<div class="box">
+					<h3>Donec dictum metus</h3>
+					<p>Vivamus fermentum nibh in augue praesent urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>
+			<div class="column4">
+				<div class="box">
+					<h3>Mauris vulputate dolor</h3>
+					<p>Rutrum fermentum nibh in augue praesent urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>  -->
+		</div>
+      
+	</div>
+</div>
+
+<div id="footer">
+	<p>&copy; Untitled. All rights reserved. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. </p>
+</div>
+</body>
+</html>

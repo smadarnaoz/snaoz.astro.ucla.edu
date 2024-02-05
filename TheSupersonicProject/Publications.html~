@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>The Supersonic Project</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+				
+                        
+                        <!-- Nav -->
+                                            <nav id="nav">
+                                                <ul>
+                                                    <li ><a href="index.html">Home</a></li>
+                                                    <li ><a href="SIGOs.html">SIGOs</a></li>
+                                                    <li><a href="People.html">People</a></li>
+                                                     <li class="current"><a href="Publications.html">Publications</a></li>
+                                            <li><a href="media.html">Images/videos</a></li>
+                                                </ul>
+                                            </nav>
+
+                                    </div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div id="content">
+
+							<!-- Content -->
+<span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+                            
+								<article>
+									
+                                    <h2> Publications</h2>
+                                                                        
+
+                                                                    
+                                                                        <ul class="links">
+                                                                            <li><a href="https://ui.adsabs.harvard.edu/abs/2014ApJ...791L...8N/abstract">Naoz & Narayan (2014)</a> Globular Clusters and Dark Satellite Galaxies through the Stream Velocity</li>
+                                                                            <li><a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.460.1625P/abstract">Popa et al. (2016)</a> Gas-rich and gas-poor structures through the stream velocity effect</li>
+                                                                            <li><a href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.3108C/abstract">Chiou et al. (2018)</a> The Supersonic Project: rotational effects of supersonic motions on the first structures in the Universe</li>
+                                                                            <li><a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...878L..23C/abstract">Chiou et al. (2018)</a> The Supersonic Project: Shining Light on SIGOs—A New Formation Channel for Globular Clusters</li>
+                                                                            <li><a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...906...25C/abstract">Chiou et al. (2021)</a> The Supersonic Project: To Cool or Not to Cool Supersonically Induced Gas Objects (SIGOs)?</li>
+                                                                            <li><a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...922...86L/abstract">Lake et al. (2021)</a> The Supersonic Project: SIGOs, A Proposed Progenitor to Globular Clusters, and Their Connections to Gravitational-wave Anisotropies</li>
+                                                                                <li><a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...927L..12N/abstract">Nakazato et al. (2022)</a> H2 Cooling and Gravitational Collapse of Supersonically Induced Gas Objects</li>
+
+ <li><a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220805987L/abstract">Lake et al. (2023)</a>The Supersonic Project: The Early Evolutionary Path of SIGOs</li>
+ <li><a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...945....6W/abstract">Williams et al. (2023)</a>The Supersonic Project: The Eccentricity and Rotational Support of SIGOs and DM GHOSts</li>
+
+                                                                        </ul>
+                           
+								</article>
+
+						</div>
+					</div>
+				</section>
+
+	  <font size="+1">  <b> &nbsp; &nbsp; &nbsp; Funding sources</b></font>
+                       <br>
+
+                         &nbsp; &nbsp;   &nbsp;  <img src="images/NASA.png" alt="example graphic"  style="width:100px;" >
+                                <img src="images/XSEDE.png" alt="example graphic"  style="width:200px;" >
+                                    
+                                <!-- Copyright -->
+                                    <div class="copyright">
+                                        <ul class="menu">
+                                        &nbsp; &nbsp; &nbsp;     <li>&copy;  All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                                        </ul>
+                                    </div>
+
+                            </div>
+
+                    </div>
+
+                    <!-- Scripts -->
+                        <script src="assets/js/jquery.min.js"></script>
+                        <script src="assets/js/jquery.dropotron.min.js"></script>
+                        <script src="assets/js/browser.min.js"></script>
+                        <script src="assets/js/breakpoints.min.js"></script>
+                        <script src="assets/js/util.js"></script>
+                        <script src="assets/js/main.js"></script>
+
+                </body>
+            </html>

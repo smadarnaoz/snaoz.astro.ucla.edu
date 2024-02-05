@@ -1,0 +1,196 @@
+<html>
+    <head>
+        <title> Astro286 - Exoplanets  </title>
+    </head>
+    
+    <body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0" style="background-color:white;">
+        
+       <!-- <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#999966"> -->
+               <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#DEB887">
+            <tr>
+                <td width="100%"><font face="Arial Black" size="6" color="#000000"><center> Astro286 - Exoplanets </center></font></td>
+                <td> <img src="exo.png"  style="width:304px;"> </td>
+            </tr>
+        </table>
+        <table border="0" width="100%" bgcolor="#000000" cellspacing="0" cellpadding="0">
+             <td width="100%"><font size="1">&nbsp;</font></td>
+           <!-- <tr>
+                <td width="100%"><font color="#FFFFFF" face="Arial" size="2"><b>WWW.YOURDOMAINNAME.COM</b></font></td>
+            </tr>-->
+        </table>
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+            <tr>
+                <!--  <td width="18%" bgcolor="#999966" valign="top"> -->
+                <td width="18%" bgcolor="#999966" valign="top">&nbsp;
+                    <p style="margin-left: 20"><font face="Arial" size="3" color="#660033"> <b> Home-Work</b> </fount><br>
+                    <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek1.pdf"> Week 1</a> <br>
+             <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek2.pdf"> Week 2</a> <br>
+       <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek3.pdf"> Week 3</a> <br>
+  <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek4.pdf"> Week 4</a> <br>
+ <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek5.pdf"> Week 5</a> <br>
+ <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek6.pdf"> Week 6</a> <br>
+ <b><font face="Arial" size="2" color="#000000"><a href="ProbSetWeek7.pdf"> Week 7</a> <br>
+<br><br>                      <!--  LINK 2<br>
+                        LINK 3<br>
+                        LINK 4<br>
+                        LINK 5<br>
+                        LINK 6 --> </font></b></p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp; </p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp; </p>
+                    <p>&nbsp;</td>
+                <td width="61%" valign="top">
+                    <blockquote>
+                        <p><br>
+                        <font face="Arial" size="5">Welcome to Astro286 - Exoplanets course  </font></p>
+                        <p><font size="3" face="Arial"> <b> Instructor:<a href="http://www.astro.ucla.edu/~snaoz/">  Smadar Naoz </a></b></font></p>
+                         <p><font size="3" face="Arial"> <b> Reader:<a href="http://www.pa.ucla.edu/directory/emily-martin">  Emily Martin </a></b></font></p>
+                        <p><font size="2" face="Arial">The class takes place on Tuesdays and Thursdays 2:00pm - 4:00pm. Home-Work assignments are mandatory and will be 35% of the final grade. There will be a final project - more details will follow. </font></p> 
+ <p><font size="2" face="Arial">A summary of the above information and the syllabus can be found <a href="syllabus.pdf"> here</a> </font></p>
+
+
+<p>
+<font face="Arial" size="3" color="#660033"> <b> Final Project</b> </fount><br>
+
+<font face="Arial" size="2" color="#000000">Suggested papers: </font> <br>
+<ul> <li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2014ApJ...785..126K"> Friends of Hot Jupiters I</a> Knutson et al 2014 </li>
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/1996Sci...274..954R"> planet-planet scattering</a> Rasio and Ford 1996 </li>
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2009ApJ...703.1131H"> Terrestrial Planets from a Narrow Annulus</a> Hansen 2009 </li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2011Natur.475..206W"> The Grand Tack</a> Walsh et al 2011 </li>
+
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/1977MNRAS.180...57W"> Aerodynamics  in the solar nebula</a> Weidenschilling 1977 </li>
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2006ApJ...638..314D"> Dust Growth and Settling</a> 
+D'Alessio et al 2006 </li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/1996Natur.380..606L"> Orbital migration  51 Pegasi b </a> 
+Li et al 1996 </li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/1986ApJ...309..846L"> Orbital migration   </a> 
+Li and Papaloizou 1986 </li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2003ApJ...585.1024G"> Eccentricity Evolution in Gaseous Disks   </a> 
+Goldreich and Sari 2003</li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2004ApJ...614..497G"> Final Stages of Planet Formation  </a> 
+Goldreich et al 2004</li>
+
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2008ApJ...673..502K"> The Snow Line and  Giant Planets </a> 
+Kennedy and  Kenyon 2008</li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2005ApJ...620..459Y"> Streaming Instabilities in Protoplanetary Disks </a> 
+Youdin and  Goodman 2005</li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2005ApJ...621L..69R"> Gravitational Instability and Giant Planets  </a> 
+Rafikov 2005</li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/2006AJ....131.1837K"> Terrestrial Planets Formation  </a> 
+
+Kenyon and  Bromley 2006</li>
+
+
+<li><font face="Arial" size="2" color="#000000"><a href="http://adsabs.harvard.edu/abs/1996Icar..124...62P"> Giant Planets Formation via Accretion  </a> 
+Pollack et al 1996</li>
+
+</ul>
+</p>
+
+                        <p><font face="Arial" size="5">Recommended reading </font></p>
+                       
+                        <p><font size="2" face="Arial">
+                       <b> Textbooks (not required) </b>
+                       <ul>
+                           <li> <a href="http://www.amazon.com/Astrophysics-Planet-Formation-Philip-Armitage/dp/1107653088/">Astrophysics of Planet Formation</a> by Phil Armitage  </li>
+                            <li> <a href="http://www.amazon.com/Solar-System-Dynamics-Carl-Murray/dp/0521575974/">Solar System Dynamics</a> by Murray and Dermott </li>
+                            <li> <a href="http://www.amazon.com/Exoplanets-Space-Science-Sara-Seager/dp/0816529450/">Exoplanets</a> (a collection of reviews) by Sara Seager</li>
+                           </ul>
+                        <b> Review articles  </b>
+                        <ul>
+                            <li> <a href="http://adsabs.harvard.edu/abs/2011ARA%26A..49..195A">Dynamics of Protoplanetary Disks</a> by Phil Armitage  </li>
+                             <li> <a href="http://adsabs.harvard.edu/abs/2010AREPS..38..493C">Forming Planetesimals in Solar and Extrasolar Nebulae</a> by Chiang and Youdin  </li>
+                             <li> <a href="http://arxiv.org/abs/1208.4694">Building Terrestrial Planets</a> by Morbidelli et al.  </li>
+                             <li> <a href="http://arxiv.org/abs/1009.1738">Keplerian Orbits and Dynamics of Exoplanets</a> by Murray and Correia  </li>
+                             <li> <a href="http://arxiv.org/abs/1311.6816">The Long-Term Dynamical Evolution of Planetary Systems</a> by Davies et al.  </li>
+                             
+                            </ul>
+                        
+                        </font></p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                    </blockquote>
+                    <p align="center"></td>
+                <td width="21%" valign="top">
+                    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="100%" bgcolor="#999966"><b><font face="Arial" size="2" color="#FFFFFF">Logistics: </font></b></td>
+                            
+                            
+                        </tr>
+                    </table>
+                    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tr>
+                             <td width="10%" bgcolor="#EEEECC">  &nbsp; </td>
+                            <td width="100%" bgcolor="#EEEECC"><br>
+                               
+                               <font size="2" face="Arial"> <b> Where? </b> PAB 3-735 </font>
+                                <p><font size="2" face="Arial"><b> When? </b> Tuesdays and Thursdays 2:00pm - 4:00pm
+                                    <p><font size="2" face="Arial"><b> Instructor:</b><a href="http://www.astro.ucla.edu/~snaoz/">  Smadar Naoz </a>
+                                        <p><font size="2" face="Arial"><b> Reader: </b><a href="http://www.pa.ucla.edu/directory/emily-martin">  Emily Martin </a>
+                                    <p><font size="2" face="Arial"><b> Office hours: </b> <br> Smadar's: Tuesdays 4:00pm - 5:00pm @ PAB 3-724 <br> Emily's: Wednesdays  4:30-6:30pm @ Knudsen 3-145E
+                                        <p><font size="2" face="Arial"><b> Home-Work assignments: </b> <font color="#880000 ">(mandatory, 35% of the final grade)</font> are due on  Thursdays
+                                            <br><br>
+                                    &nbsp;</font></td>
+                            <td width="10%" bgcolor="#EEEECC">  &nbsp; </td>
+                        </tr>
+                    </table>
+                    <!--
+                    <table border="0" width="100%" bgcolor="#008080" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="100%" bgcolor="#999966"><b><font face="Arial" size="2" color="#FFFFFF">SIDE
+                                HEADING 2</font></b></td>
+                        </tr>
+                    </table>
+                    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="100%" bgcolor="#EEEECC"><br>
+                                <font size="2" face="Arial">This is the place for your news or other
+                                    site information. Another good use for this space is to display
+                                    advertisements.</font>
+                                <p><font size="2" face="Arial">This is the place for your news or
+                                    other site information. Another good use for this space is to
+                                    display advertisements<br>
+                                    &nbsp;</font></td>
+                        </tr>
+                    </table>
+                    -->
+                </td>
+            </tr>
+        </table>
+        <table border="0" width="100%" bgcolor="#000000" cellspacing="0" cellpadding="0">
+            <tr>
+                <td width="100%"><font size="1">&nbsp;</font></td>
+            </tr>
+        </table>
+        
+        
+    </body>
+    
+</html>
+

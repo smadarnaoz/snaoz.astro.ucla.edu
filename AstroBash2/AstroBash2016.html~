@@ -1,0 +1,187 @@
+<!DOCTYPE HTML>
+<html><head><title>AstroBash</title><meta name="description" content="website description"><meta name="keywords" content="website keywords, website keywords"><meta http-equiv="content-type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="style/style.css"></head><body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html"><span class="logo_colour">AstroBash</span></a></h1>
+          <h2>Oct. 13 2016, 3pm-5pm, PAB 2-434</h2>
+        </div>
+      </div>
+      <!--
+      <div id="menubar">
+        <ul id="menu"> -->
+       <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+       <!--
+       <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="examples.html">Examples</a></li>
+          <li><a href="page.html">A Page</a></li>
+          <li><a href="another_page.html">Another Page</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul></div>-->
+    </div>
+    
+    <div id="site_content">
+      <div class="sidebar">
+          <h1>When and Where?</h1>
+       
+        <h4><b> Oct. 13 2016, 3pm-5pm, PAB 2-434 </b></h4>
+        <p>Followed by a social event on the patio.</p>
+        
+      </div>
+      <div id="content">
+        <h1>AstroBash <br> The Division of Astronomy and Astrophysics show and tell</h1>
+        <p>  
+        Talks will take place between 3pm-5pm (each talk 2m)
+            followed by a social event on patio.</p>
+       
+<!-- <font size="4"> <b> Sign-in for a talk </b></font> -->
+<h2> Sign-in for a talk:</h2>
+<font size="3">
+        To sign-in for a talk, please send your  <font color="red"> (max 3)</font>  pdf slides <font color="red"> by Oct. 10, 2pm  </font> to: <br> Louis Abramson: labramson@astro.ucla.edu and Smadar Naoz: snaoz@astro.ucla.edu </font>  
+
+<br>
+<p>
+<table style="width:100%">
+<tr> 
+<td>
+<img src="Pics16/IMG_7656.JPG" style="width:280px;" > </td> <td align="center"> <img src="Pics16/IMG_7658.JPG" style="width:280px;" > </td> </tr>
+<td>
+<img src="Pics16/IMG_7659.JPG" style="width:280px;" > </td> <td align="center"> <img src="Pics16/IMG_7661.JPG" style="width:280px;" > </td> </tr>
+<td>
+<img src="Pics16/IMG_7662.JPG" style="width:280px;" > </td> <td> Pictures are courtesy of James Larkin </td> </tr>
+
+</table>
+</p>
+        <p>
+
+       <h1> <b> Talk schedule </b></h1>
+
+           <table style="width:100%">
+               <tr>	<td>	<b>Name</b> 	</td> <td> <b> Time </b></td>	<td> <b>	Title</b> 	</td>	</tr>               
+<tr>  <td> Organizers  </td>   <td>  15:00 </td>  <td> Few words from the organizers</td>  </tr>  
+<tr>  <td>      James Larkin      </td>  <td>      15:05      </td>  <td>      Infrared Instruments and Extragalactic Observations      </td>  </tr>
+<tr>  <td>      Gunther Witzel      </td>  <td>      15:07      </td>  <td>      Variability of SgrA*      </td>  </tr>
+<tr>  <td>      Anna Boehle      </td>  <td>      15:09      </td>  <td>      LINERs: A Class of Low Luminosity Active Galaxies Defined by Emission Line Ratios      </td>  </tr>
+<tr>  <td>      Xinnan Du      </td>  <td>      15:11      </td>  <td>      CIII] Emission in Starforming Galaxies at z ~ 1      </td>  </tr>
+<tr>  <td>     Matt Malkan     </td>  <td>      15:13      </td>  <td>    How Much Dust Extinction is there in Star-forming Galaxies?    </td>  </tr>
+<tr>  <td>      Jean-Luc Margot      </td>  <td>      15:15      </td>  <td>      Dynamics       Geodesy       and Geophysics of Planets       Satellites       and Small Bodies      </td>  </tr>
+<tr>  <td>      Aurelien Hees      </td>  <td>      15:17      </td>  <td>      Tests of General Relativity      </td>  </tr>
+<tr>  <td>      Hilke Schlichting      </td>  <td>      15:19      </td>  <td>      Planet Formation at Home and Abroad      </td>  </tr>
+<tr>  <td>      Kevin Stahl       </td>  <td>      15:21      </td>  <td>      HD 106906: A Binary Star       A Debris Disk       and a Far-Out Companion      </td>  </tr>
+<tr>  <td>      David Jewitt      </td>  <td>      15:23      </td>  <td>      Spinning to Bits      </td>  </tr>
+<tr>  <td>      Alexande Stephan      </td>  <td>      15:25      </td>  <td>      Hot Jupiters in Evolving Binaries      </td>  </tr>
+<tr>  <td>      Jean Turner       </td>  <td>      15:27      </td>  <td>      Ionized and Molecular Gas near Young Super Star Clusters in Local Galaxies      </td>  </tr>
+<tr>  <td>      Peter Williams      </td>  <td>      15:29      </td>  <td>      Reverberation Mapping of z=2.82 Lensed Quasar SDSSJ2222+2745      </td>  </tr>
+<tr>  <td>      Abhimat Gautam      </td>  <td>      15:31      </td>  <td>      Galactic Center Eclipsing Binaries and Stellar Variability      </td>  </tr>
+<tr>  <td>      Adam Trapp      </td>  <td>      15:33      </td>  <td>      SiO Masers in the Galactic Bulge      </td>  </tr>
+<tr>  <td>      Ana-Maria Piso      </td>  <td>      15:35      </td>  <td>      Origins of Gas Giant Compositions      </td>  </tr>
+<tr>  <td>      Anowar Shajib      </td>  <td>      15:37      </td>  <td>      Cosmology with Gravitational Lensing      </td>  </tr>
+<tr>  <td>      Ariel Graykowski      </td>  <td>      15:39      </td>  <td>      A Color Survey of Irregular Satellites      </td>  </tr>
+<tr>  <td>      Will Newman      </td>  <td>      15:41      </td>  <td>      N-Body Systems       Parallelized FFTs       RMHD       and Bipolar FLows       </td>  </tr>
+<tr>  <td>      Kelly Kosmo      </td>  <td>      15:43      </td>  <td>      Observable Priors      </td>  </tr>
+<tr>  <td>      Man-To Hui      </td>  <td>      15:45      </td>  <td>      Resurrection of Phaethon      </td>  </tr>
+<tr>  <td>      Jon Zink      </td>  <td>      15:47      </td>  <td>      Occurence Rate of Earth Analogues Using Kepler Data      </td>  </tr>
+<tr>  <td>      Arezu Dehghanfar      </td>  <td>      15:49      </td>  <td>      Tests of General Relativity in the Center of Our Galaxy      </td>  </tr>
+<tr>  <td>      Ben Zuckerman       </td>  <td>      15:51      </td>  <td>     The Chemical Composition of an Extrasolar Kuiper-Belt Object      </td>  </tr>
+<tr>  <td>      Jesus Salas      </td>  <td>      15:53      </td>  <td>      Dynamical Simulations of Molecular Clouds in the Galactic Center      </td>  </tr>
+<tr>  <td>      Louis Abramson      </td>  <td>      15:55      </td>  <td>      Connecting Data to Models of Galaxy Evolution      </td>  </tr>
+<tr>  <td>      Ralph Bird      </td>  <td>      15:57      </td>  <td>      Veritas Observations of the Cygnus Region      </td>  </tr>
+<tr>  <td>      Jamie Ryan      </td>  <td>      15:59      </td>  <td>      [Self Titled]      </td>  </tr>
+<tr>  <td>       Alice Shapley    </td>  <td>      16:01      </td>  <td>          MOSDEF: Rest-Optical Spectra at High-z   </td>  </tr>
+<tr>  <td>      Helen Kim      </td>  <td>      16:03      </td>  <td>      Physical Properties of Galaxy Evolution      </td>  </tr>
+<tr>  <td>      Jordan Mirocha      </td>  <td>      16:05      </td>  <td>      Galaxy Evolution through 21 cm Observations      </td>  </tr>
+<tr>  <td>      Jordan Runco      </td>  <td>      16:07      </td>  <td>      [Self Titled]      </td>  </tr>
+<tr>  <td>      Pauline Arriaga       </td>  <td>      16:09      </td>  <td>            </td>  </tr>
+<tr>  <td>      Michelle Consiglio      </td>  <td>      16:11      </td>  <td>      Gas and Dust in Compact       Highly Efficient Starforming Regions      </td>  </tr>
+<tr>  <td>      Andrea Ghez      </td>  <td>      16:13      </td>  <td>      The Galactic Center and Adaptive Optics      </td>  </tr>
+<tr>  <td>      Danniel Cohen      </td>  <td>      16:15      </td>  <td>      Properties of Emission Line Galaxies in WISPS from Optical MUSE and NIR WFC3 Spectra      </td>  </tr>
+<tr>  <td>      Dave Milewski      </td>  <td>      16:17      </td>  <td>       Two Solar System Small Bodies in Detail Using the C28 Telescope      </td>  </tr>
+<tr>  <td>      Devin Chu      </td>  <td>      16:19      </td>  <td>      Strudying the S Star Orbits at the Galactic Center      </td>  </tr>
+<tr>  <td>      Brad Hansen      </td>  <td>      16:21      </td>  <td>      Planet Formation and Dynamics      </td>  </tr>
+<tr>  <td>      Mathew Yu      </td>  <td>      16:23      </td>  <td>      Advisor Wanted!      </td>  </tr>
+<tr>  <td>      Gregory Martinez       </td>  <td>      16:25      </td>  <td>      Data       Statistics       Coding       and a Little Science      </td>  </tr>
+<tr>  <td>      Rick Mebane      </td>  <td>      16:27      </td>  <td>      Modeling the Formation of the First Stars      </td>  </tr>
+<tr>  <td>      Mark Morris      </td>  <td>      16:29      </td>  <td>      Plasma Blob Ejections from V Hydrae       </td>  </tr>
+<tr>  <td>       Anson Lam       </td>  <td>      16:31      </td>  <td>               Searching for and Characterizing WISE-Selected Obscured AGNs    </td>  </tr>
+<tr>  <td>      Matthew Buchovecky      </td>  <td>      16:33      </td>  <td>      VHE Emission from the Galactic Center      </td>  </tr>
+<tr>  <td>      Ryan Sanders      </td>  <td>      16:35      </td>  <td>      Galaxy Evolution with Optical Emission Lines      </td>  </tr>
+<tr>  <td>      Michael Topping      </td>  <td>      16:37      </td>  <td>      The SSA22 Protocluster      </td>  </tr>
+<tr>  <td>      Mike Fitzgerald      </td>  <td>      16:39      </td>  <td>      Infrared Instrumentation      </td>  </tr>
+<tr>  <td>      Xin Wang      </td>  <td>      16:41      </td>  <td>      Precise Mapping of Metal Distributions in Star-forming Galaxies at z~1.8      </td>  </tr>
+<tr>  <td>      Zhuo Chen      </td>  <td>      16:43      </td>  <td>      Monitoring the Variability of the Supermassive Black Hole at the Galactic Center      </td>  </tr>
+<tr>  <td>      Tuan Do      </td>  <td>      16:45      </td>  <td>      The Origin and Evolution of Nuclear Star Clusters      </td>  </tr>
+<tr>  <td>      Smadar Naoz      </td>  <td>      16:47      </td>  <td>      Dynamics is Everywhere      </td>  </tr>
+ </table> 
+
+<!--
+           <table style="width:100%">
+               
+
+               <tr>	<td>	Anowar Jaman Shajib	</td>	<td>	Measurement of ISW effect using WISE	</td>	</tr>
+               <tr>	<td>	Abhimat Gautam	</td>	<td>	Stellar Variability and Eclipsing Binaries at the Galactic Center	</td>	</tr>
+               <tr>	<td>	Ryan Sanders	</td>	<td>	The evolution of physical properties in star-forming regions over the past 12 Gyr	</td>	</tr>
+               <tr>	<td>	Pauline Arriaga	</td>	<td>	The Dusty Debris Disk around HR4796A	</td>	</tr>
+               <tr>	<td>	Ned Wright	</td>	<td>	Wide Field Infrared Surveys from Space	</td>	</tr>
+               <tr>	<td>	Jordan Mirocha	</td>	<td>	Constraining the High Redshift Galaxy Population with Measurements at Redshifted 21-cm Wavelengths	</td>	</tr>
+               <tr>	<td>	Sarah Logsdon	</td>	<td>	Near-Infrared Studies of Late-Type Brown Dwarfs with Keck and Star Forming Regions with SOFIA	</td>	</tr>
+               <tr>	<td>	S. Michelle Consiglio	</td>	<td>	Star Formation and Feedback in Massive Clusters	</td>	</tr>
+               <tr>	<td>	Tuan Do	</td>	<td>	Measuring the Milky Way Halo Mass	</td>	</tr>
+               <tr>	<td>	Laura Haney	</td>	<td>	Young Stars and Planet Formation	</td>	</tr>
+                            <tr>	<td>	Alexis Popkow	</td>	<td>	A Study of Very High Energy Gamma-ray Astrophysics in the Galactic Plane with VERITAS	</td>	</tr>
+               <tr>	<td>	James Larkin	</td>	<td>	Instrumentation and plans for the Thirty Meter Telescope	</td>	</tr>
+               <tr>	<td>	Alexander Stephan	</td>	<td>	Binary Dynamics in the Galactic Center	</td>	</tr>
+               <tr>	<td>	Aomawa Shields	</td>	<td>	Exoplanet Climatology: The Next Era of Habitable-planet Hunting	</td>	</tr>
+               <tr>	<td>	Helen Kim	</td>	<td>	Optical to Near-Infrared Spectroscopy of z > 1 Galaxies in the AKARI-NEP Field	</td>	</tr>
+               <tr>	<td>	Anna Boehle	</td>	<td>	The Environments Around Nearby Supermassive Black Holes	</td>	</tr>
+               <tr>	<td>	Michael Topping	</td>	<td>	A high concentration of redshift z=3.09 galaxies in the SSA22a field.	</td>	</tr>
+               <tr>	<td>	Jean Turner	</td>	<td>	Extragalactic chemistry	</td>	</tr>
+               <tr>	<td>	Lynnie Saade	</td>	<td>	Why Black Holes are the Most Awesome of the Celestial Bodies </td>	</tr>
+               <tr>	<td>	Daniel Gilman	</td>	<td>	Strong Lensing, Substructure, and the Dark Matter Particle 	</td>	</tr>
+               <tr>	<td>	Louis Abramson	</td>	<td>	From Constraining to Understanding Galaxy Star Formation Histories	</td>	</tr>
+               <tr>	<td>	Michael Rich	</td>	<td>	Surprises in our Galactic Bulge	</td>	</tr>
+               <tr>	<td>	Alec Vinson	</td>	<td>	Spin Dynamics of Exoplanets around M Dwarfs: Effects of a Companion in Resonance	</td>	</tr>
+               <tr>	<td>	Xin Wang	</td>	<td>	Spatially resolved spectroscopy and metallicity gradients from HST grisms	</td>	</tr>
+               <tr>	<td>	Matt Malkan	</td>	<td>	what's up	</td>	</tr>
+               <tr>	<td>	Xinnan Du	</td>	<td>	The kinematics of CIV in star forming galaxies at z~1.2	</td>	</tr>
+               <tr>	<td>	Emily Martin	</td>	<td>	Characterizing low mass stars and brown dwarfs and upgrading NIRSPEC	</td>	</tr>
+               <tr>	<td>	Andrea Ghez	</td>	<td> The Galactic Center	</td>	</tr>
+               <tr>	<td>	Richard Mebane	</td>	<td>	Modeling the Formation of the First Population III Stars	</td>	</tr>
+               <tr>	<td>	Ralph Bird	</td>	<td>	Cosmic Rays with VERITAS - using the shadow of the Moon to measure the positron fraction.	</td>	</tr>
+               <tr>	<td>	Takahiro Morishita	</td>	<td>	The size-mass relations of galaxies in different environments	</td>	</tr>
+               <tr>	<td>	Matt Buchovecky	</td>	<td>	Very High Energy Emission of Galactic Center Sources	</td>	</tr>
+               <tr>	<td>	Kevin Stahl	</td>	<td>	Introducing Kevin Stahl	</td>	</tr>
+               <tr>	<td>	Xuheng Ding	</td>	<td>	Gravitational Lensed Quasar Hosts	</td>	</tr>
+               <tr>	<td>	Ben Zuckerman	</td>	<td>	Planetary systems, young and evolved	</td>	</tr>
+               <tr>	<td>	Gunther Witzel	</td>	<td>	The variable NIR source Sgr A*.	</td>	</tr>
+               <tr>	<td>	Alice Shapley	</td>	<td>	MOSDEF: A MOSFIRE Survey of the Physical Properties of High-Redshift Galaxies	</td>	</tr>
+               <tr>	<td>	Julien Rousselle	</td>	<td>	The Cherenkov Telescope Array (CTA) for Very Hight Energy Astrophysics	</td>	</tr>
+               <tr>	<td>	Kiera Fuller	</td>	<td>	Indirect Dark Matter Detection with GAPS	</td>	</tr>
+               <tr>	<td>	Smadar Naoz	</td>	<td>	Dynamics is everywhere	</td>	</tr>
+               <tr>	<td>	Breann Sitarski	</td>	<td>	Characterizing Infrared Excess Sources in the Galactic Center with Adaptive Optics	</td>	</tr>
+               <tr>	<td>	Dave Jewitt	</td>	<td>	Solar System is Fabulous	</td>	</tr>
+               <tr>	<td>	Jamie Ryan	</td>	<td>	Something with Matt	</td>	</tr>
+               <tr>	<td>	Peter Williams	</td>	<td>	Using Machine Learning to Search for Gravitationally Lensed Quasars in the Dark Energy Survey	</td>	</tr>
+               <tr>	<td>	Li-Wei Hung	</td>	<td>	Characterizing the Debris Disk HD 131835 With Multi-Wavelength High-Contrast Imaging	</td>	</tr>
+               <tr>	<td>	Michael Fitzgerald	</td>	<td>	Infrared Instrumentation and High-Contrast Imaging	</td>	</tr>
+              
+               <tr>	<td>	Jean-Luc Margot	</td>	<td>	Summary of my teaching and research interests	</td>	</tr>
+               <tr>	<td>	Brad Hansen	</td>	<td>	Planet Formation Big and Small	</td>	</tr>
+               
+                  </table>
+        
+    -->    
+        </p>
+        
+        
+      </div>
+    </div>
+    <!--
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
+      <p>Copyright � simplestyle_5 | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>
+</p>
+    </div>-->
+  </div>
+</body></html>

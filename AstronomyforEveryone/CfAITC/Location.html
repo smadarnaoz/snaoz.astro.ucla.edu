@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+
+	Design by Free CSS Templates
+	http://www.freecsstemplates.org
+	Released for free under a Creative Commons Attribution License
+
+	Name       : Eponymous
+	Version    : 1.0
+	Released   : 20130222
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>Astronomy for Everyone</title>
+        <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+            <meta charset="utf-8">
+                <title>Simple markers</title>
+                <style>
+                     #map-canvas {
+                        width: 500px;
+                        height: 400px;
+                    }
+                </style>
+                <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+                <script>
+                    function initialize() {
+                        var myLatlng = new google.maps.LatLng(42.3818884,-71.12844829999997);
+                        var mapOptions = {
+                            zoom: 17,
+                            center: myLatlng
+                        }
+                        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+                        
+                        var marker = new google.maps.Marker({
+                                                            position: myLatlng,
+                                                            map: map,
+                                                            title: 'Hello World!'
+                                                            });
+                    }
+                
+                google.maps.event.addDomListener(window, 'load', initialize);
+                
+                    </script>
+    </head>
+    <body>
+        
+		<div id="bg">
+			<div id="outer">
+                <div id="banner">
+					<img src="images/LOGO1.jpg" width="1120" height="130" alt="" />
+				</div>
+				<div id="header">
+                    
+					<div id="logo">
+						<h1>
+							<a href="#">Astronomy for Everyone</a>
+						</h1>
+					</div>
+					<div id="nav">
+						<ul>
+							<li >
+								<a href="index.html">Home</a>
+							</li>
+							<li>
+								<a href="Registration.html">Registration</a>
+							</li>
+							<li >
+								<a href="Program.html">Program</a>
+							</li>
+							<li class="first active">
+								<a href="Location.html">Location </a>
+							</li>
+                        
+						</ul>
+						<br class="clear" />
+					</div>
+				</div>
+				
+				<div id="main">
+					<div id="sidebar">
+						
+						<ul class="linkedList">
+							<li class="first">
+                                For questions and inquiries contact <br> Dr. Smadar Naoz. <br> Email snaoz@cfa.harvard.edu <br> Phone (617)-495-8752
+							</li>
+							<li>
+                                Download poster <br> <a href="Ad1.pdf"> 11x8.5 </a>, <a href="AdBig.pdf"> 11x17 </a>
+                            </li>
+                            <li> <a href="https://lvl.si.edu/building-community/summer-workshop/"> IncTech 2013 workshop</a></li>
+						</ul>
+					</div>
+					<div id="content">
+						<div id="box1">
+                            
+                           
+                            
+							<p> The workshop will take place at  The  <a href="http://www.cfa.harvard.edu/" rel="nofollow">Harvard Smithsonian Center for Astrophysics</a>
+                            and the <a href="http://www.cfa.harvard.edu/itc/" rel="nofollow">Institute for Theory and Computation </a>  located at <br> 60 Garden St.  Cambridge, MA 02138 <br>At the Phillips auditorium  </p>
+						
+                        <br>
+                          <div id="map-canvas"></div>
+                         <br>
+                       
+                            <a href="https://www.google.com/maps/preview/place/Phillips+Auditorium+60+Garden+St+Cambridge,+MA+02138/@42.3822182,-71.1278576,17z/data=!3m1!4b1!4m2!3m1!1s0x89e3776cecebc381:0xf5110facf9a8160b"rel="nofollow">View Larger Map</a>
+                            
+                            <br>
+                            
+                           <h5> Transportation and Parking </h5>
+                            
+                            Since parking in the very close proximity of the Center of Astrophysics is limited to Cambridge residence it is advisable to use public transportation.
+                            <br>
+                            Parking garages within a walking distant are available for a cost (<a href="https://www.google.com/maps/preview/search/parking+garage+near+60+garden+st+cambridge/@42.3813384,-71.1265483,15z/data=!3m1!4b1!4m5!2m4!3m3!1sparking+garage!2s60+Garden+St,+Cambridge,+MA+02138!3s0x89e3776c91270337:0x40511afb8217c165">see here</a>), and are the responsibility of the participants.
+                         
+                         
+
+						<br class="clear" />
+					</div>
+					<br class="clear" />
+				</div>
+				<div id="footer">
+					<div id="footerSidebar">
+                        <a href="http://www.harvard.edu/" rel="nofollow"><img class="left" src="images/HLOGO.png" width="30" height="30" alt="" /></a>
+                        <a href="http://www.cfa.harvard.edu/" rel="nofollow"><img class="left" src="images/CfALOGO.png" width="30" height="30" alt="" /></a>
+                        <a href="http://www.cfa.harvard.edu/itc/" rel="nofollow"><img class="left" src="images/ITCLOGO.png" width="30" height="25" alt="" /></a>
+                        <a href="http://www.lvl.si.edu" rel="nofollow"><img align="left" src="images/LVLLOGO.png" width="40" height="35" alt="" /></a>
+                        
+					</div>
+					<div id="footerContent">
+                        
+                        The  <a href="http://www.cfa.harvard.edu/" rel="nofollow">Harvard Smithsonian Center for Astrophysics</a>,
+                        
+                        The <a href="http://www.cfa.harvard.edu/itc/" rel="nofollow">Institute for Theory and Computation </a> <br>
+                        The  <a href="http://www.lvl.si.edu" rel="nofollow"> Laboratory for Visual Learning </a>
+					</div>
+					<br class="clear" />
+				</div>
+			</div>
+			<div id="copyright">
+				&copy; Astronomy for Everyone | Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>
+			</div>
+		</div>
+    </body>
+</html>

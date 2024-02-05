@@ -1,0 +1,427 @@
+<!DOCTYPE HTML>
+<html><head><title>AstroBash</title><meta name="description" content="website description"><meta name="keywords" content="website keywords, website keywords"><meta http-equiv="content-type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="style/style.css"></head><body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="AstroBash2021.html"><span class="logo_colour">AstroBash</span></a></h1>
+          <h2>November 12, 2021, 2-4pm, + social 4-5pm </h2>
+        </div>
+      </div>
+      <!--
+      <div id="menubar">
+        <ul id="menu"> -->
+       <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+       <!--
+       <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="examples.html">Examples</a></li>
+          <li><a href="page.html">A Page</a></li>
+          <li><a href="another_page.html">Another Page</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul></div>-->
+    </div>
+    
+    <div id="site_content">
+      <div class="sidebar">
+          <h1>When and Where?</h1>
+       
+        <h4><b> November 12, 2021, 2-4pm + 4-5pm social, P&#38;A third floor patio   </b></h4>
+      <!--  <p><font size="+0.5">Followed by lunch on the patio.</fint></p>
+        -->
+<p>
+<b>Previous meetings:</b>
+
+<br>
+<a href="http://www.astro.ucla.edu/~snaoz/AstroBash2/AstroBash2020.html">
+ 2020 </a>
+<br>
+<a href="http://www.astro.ucla.edu/~snaoz/AstroBash2/AstroBash2019.html">
+ 2019 </a>
+<br>
+<a href="http://www.astro.ucla.edu/~snaoz/AstroBash2/AstroBash2018.html">
+ 2018 </a>
+<br>
+<a href="http://www.astro.ucla.edu/~snaoz/AstroBash2/AstroBash2017.html">
+ 2017 </a><br>
+<a href="http://www.astro.ucla.edu/~snaoz/AstroBash2/AstroBash2016.html">
+ 2016 </a><br>
+<a href="http://www.astro.ucla.edu/~snaoz/AstroBash2/index.html">
+2015 </a>
+</p>
+
+      </div>
+      <div id="content">
+        <h1>AstroBash <br> The Division of Astronomy and Astrophysics show and tell</h1>
+        <p>  
+        Talks will take place between November 12 2021, 2-4pm  (each talk 2m).</p>
+       
+<!-- <font size="4"> <b> Sign-in for a talk </b></font> -->
+
+<h2> Sign-in for a talk:</h2>
+<font size="3">
+        To sign-in for a talk, please send your  <font color="red"> (max 3)</font>  pdf slides <font color="red"> by Nov. 9, 2pm  </font> to: <br> Sanaea Rose: srose@astro.ucla.edu and Smadar Naoz: snaoz@astro.ucla.edu </font>  
+
+<br>
+
+<br>
+<br>
+
+<!--
+<p>
+<table style="width:100%">
+<tr> 
+<td>
+<img src="Pics19/IMG_3218.png" style="width:380px;" > </td> <td align="center"> <img src="Pics19/IMG_3222.png" style="width:380px;" > </td> </tr>
+<td>
+<img src="Pics19/IMG_3248.png" style="width:380px;" > </td> <td align="center"> <img src="Pics19/IMG_3243.png" style="width:380px;" > </td> </tr>
+<tr>
+<td>
+<img src="Pics19/IMG_3250.png" style="width:380px;" > </td> <td align="center"> <img src="Pics19/IMG_3254.png" style="width:380px;" > </td></tr>
+
+</table>
+</p>
+-->
+
+
+  <h1> <b> Talk schedule </b></h1>
+ <table style="width:100%">                                                                                      </td> <td><b> Time (PM)</b></td> <td><b> Name </b></td>  </tr>   
+<tr>  <td>2</td> <td>WELCOM REMARKS </td> </tr>
+<tr>  <td>2:02</td> <td>Sanaea Rose</td> </tr>
+<tr>  <td>2:04</td> <td>Devin Chu</td> </tr>
+<tr>  <td>2:06</td> <td>Erez Michaely </td> </tr>
+<tr>  <td>2:08</td> <td>Lizvette Villafana</td> </tr>
+<tr>  <td>2:10</td> <td>Zeyuan Xuan </td> </tr>
+<tr>  <td>2:12</td> <td>Liz Holzknecht </td> </tr>
+<tr>  <td>2:14</td> <td>Will Newman </td> </tr>
+<tr>  <td>2:16</td> <td>Erik Petigura</td> </tr>
+<tr>  <td>2:18</td> <td>Isabel Angelo</td> </tr>
+<tr>  <td>2:20</td> <td>Rory Bentley</td> </tr>
+<tr>  <td>2:22</td> <td>Ned Wright</td> </tr>
+<tr>  <td>2:24</td> <td>Peyton Benac</td> </tr>
+<tr>  <td>2:26</td> <td>Michael Thacher</td> </tr>
+<tr>  <td>2:28</td> <td>Lynnie Saade</td> </tr>
+<tr>  <td>2:30</td> <td>Alice Shapley</td> </tr>
+<tr>  <td>2:32</td> <td>William Lake</td> </tr>
+<tr>  <td>2:34</td> <td>Dakotah Tyler</td> </tr>
+<tr>  <td>2:36</td> <td>Andrea Ghez</td> </tr>
+<tr>  <td>2:38</td> <td>Ronald Lopez</td> </tr>
+<tr>  <td>2:40</td> <td>Zhuo Chen</td> </tr>
+<tr>  <td>2:42</td> <td>Luke Finnerty</td> </tr>
+<tr>  <td>2:44</td> <td>Claire Williams</td> </tr>
+<tr>  <td>2:46</td> <td>Zo Haggard</td> </tr>
+<tr>  <td>2:48</td> <td>Sandra Raimundo</td> </tr>
+<tr>  <td>2:50</td> <td>Judah Van Zandt</td> </tr>
+<tr>  <td>2:52</td> <td>Nick Ferraro</td> </tr>
+<tr>  <td>2:54</td> <td>Leonardo Clarke</td> </tr>
+<tr>  <td>2:56</td> <td>Denyz Melchor</td> </tr>
+<tr>  <td>2:58</td> <td>Grant Weldon</td> </tr>
+<tr>  <td>3:00</td> <td>Shawn Knabel</td> </tr>
+<tr>  <td>3:02</td> <td>Ruo Shang</td> </tr>
+<tr>  <td>3:04</td> <td>Aidan Gibbs</td> </tr>
+<tr>  <td>3:06</td> <td>Max Kroft</td> </tr>
+<tr>  <td>3:08</td> <td>Matt Hosek</td> </tr>
+<tr>  <td>3:10</td> <td>Smadar Naoz</td> </tr>
+<tr>  <td>3:12</td> <td>Tony Pahl</td> </tr>
+<tr>  <td>3:14</td> <td>Sahil Hegde</td> </tr>
+<tr>  <td>3:16</td> <td>Michael Wyatt</td> </tr>
+<tr>  <td>3:18</td> <td>Ioana Zelko</td> </tr>
+<tr>  <td>3:20</td> <td>Yoo Jung Kim</td> </tr>
+<tr>  <td>3:22</td> <td>Guido Roberts-Borsani</td> </tr>
+<tr>  <td>3:24</td> <td>Suyash Kumar</td> </tr>
+<tr>  <td>3:26</td> <td>Mathew Yu</td> </tr>
+<tr>  <td>3:28</td> <td>Matt Malkan</td> </tr>
+<tr>  <td>3:30</td> <td>Yash Gursahani</td> </tr>
+<tr>  <td>3:32</td> <td>Akash Gupta</td> </tr>
+<tr>  <td>3:34</td> <td>Briley Lewis</td> </tr>
+<tr>  <td>3:36</td> <td>Tuan Do</td> </tr>
+<tr>  <td>3:38</td> <td>Melodie Sloneker</td> </tr>
+<tr>  <td>3:40</td> <td>Asad Ukani</td> </tr>
+<tr>  <td>3:42</td> <td>Shoko Sakai</td> </tr>
+<tr>  <td>3:44</td> <td>Santiago Torres</td> </tr>
+<tr>  <td>3:46</td> <td>Rebecca Lewis</td> </tr>
+<tr>  <td>3:48</td> <td>Isabella Trierweiler</td> </tr>
+<tr>  <td>3:50</td> <td>Devon Williams</td> </tr>
+<tr>  <td>3:52</td> <td>Michael Rich </td> </tr>
+<tr>  <td>3:54</td> <td>Scott Mackey</td> </tr>
+<tr>  <td>3:56</td> <td>Veronica Dike</td> </tr>
+<tr>  <td>3:58</td> <td>Kelly Kosmo O’Neil</td> </tr>
+<tr>  <td>4:00</td> <td>Kevin Hayakawa</td> </tr>
+<tr>  <td>4:02</td> <td>Evan Jones</td> </tr>
+<tr>  <td>4:04</td> <td>Adam Trapp</td> </tr>
+</table>
+<!--
+ <table style="width:100%">                                                                                      </td> <td><b> Time </b></td> <td><b> Name </b></td>  </tr>   
+
+<tr>     <td>2:00-2:04 PM</td> <td>WELCOM REMARKS</td>  </tr>
+<tr>     <td>2:04 PM</td> <td>Erik Petigura</td>  </tr>
+<tr>     <td>2:06 PM</td> <td>Sandra Raimundo</td>  </tr>
+<tr>     <td>2:08 PM</td> <td>Briley Lewis</td>  </tr>
+<tr>     <td>2:10 PM</td> <td>Steve Furlanetto</td>  </tr>
+<tr>     <td>2:12 PM</td> <td>Rory Bentley</td>  </tr>
+<tr>     <td>2:14 PM</td> <td>Veronica Dike</td>  </tr>
+<tr>     <td>2:16 PM</td> <td>Ben Calvin</td>  </tr>
+<tr>     <td>2:18 PM</td> <td>Jamie Ryan</td>  </tr>
+<tr>     <td>2:20 PM</td> <td>Jean-Luc Margot</td>  </tr>
+<tr>     <td>2:22 PM</td> <td>Lizvette Villafana</td>  </tr>
+<tr>     <td>2:24 PM</td> <td>Matthew Yu</td>  </tr>
+<tr>     <td>2:26 PM</td> <td>Judah Van Zandt</td>  </tr>
+<tr>     <td>2:28 PM</td> <td>Bao-Minh Hoang</td>  </tr>
+<tr>     <td>2:30 PM</td> <td>Erika Hoffman</td>  </tr>
+<tr>     <td>2:32 PM</td> <td>Liz Holzknecht </td>  </tr>
+<tr>     <td>2:34 PM</td> <td>Akash Gupta</td>  </tr>
+<tr>     <td>2:36 PM</td> <td>Matthew Hosek</td>  </tr>
+<tr>     <td>2:38 PM</td> <td>Eric Zhang</td>  </tr>
+<tr>     <td>2:40 PM</td> <td>Smadar Naoz</td>  </tr>
+<tr>     <td>2:42 PM</td> <td>Luke Finnerty</td>  </tr>
+<tr>     <td>2:44 PM</td> <td>Lynnie Saade</td>  </tr>
+<tr>     <td>2:46 PM</td> <td>Devin Chu</td>  </tr>
+<tr>     <td>2:48 PM</td> <td>Michael Thacher</td>  </tr>
+<tr>     <td>2:50 PM</td> <td>Jon Zink</td>  </tr>
+<tr>     <td>2:52 PM</td> <td>Tommaso Treu</td>  </tr>
+<tr>     <td>2:54 PM</td> <td>Melodie Sloneker</td>  </tr>
+<tr>     <td>2:56 PM</td> <td>Ronald Lopez</td>  </tr>
+<tr>     <td>2:58 PM</td> <td>Santiago Torres</td>  </tr>
+<tr>     <td>3:00 PM</td> <td>Tuan Do</td>  </tr>
+<tr>     <td>3:02 PM</td> <td>Jordan Runco</td>  </tr>
+<tr>     <td>3:04 PM</td> <td>Isabel Angelo</td>  </tr>
+<tr>     <td>3:06 PM</td> <td>Alice Shapley</td>  </tr>
+<tr>     <td>3:08 PM</td> <td>Denyz Melchor</td>  </tr>
+<tr>     <td>3:10 PM</td> <td>Cuc Dinh</td>  </tr>
+<tr>     <td>3:12 PM</td> <td>Tony Pahl</td>  </tr>
+<tr>     <td>3:14 PM</td> <td>Abhimat Gautam</td>  </tr>
+<tr>     <td>3:16 PM</td> <td>Matt Malkan</td>  </tr>
+<tr>     <td>3:18 PM</td> <td>Dakotah Tyler</td>  </tr>
+<tr>     <td>3:20 PM</td> <td>Cheryl Wang</td>  </tr>
+<tr>     <td>3:22 PM</td> <td>Nick Ferraro</td>  </tr>
+<tr>     <td>3:24 PM</td> <td>Thea Faridani</td>  </tr>
+<tr>     <td>3:26 PM</td> <td>Kelly Kosmo O'Neil</td>  </tr>
+<tr>     <td>3:28 PM</td> <td>Ned Wright</td>  </tr>
+<tr>     <td>3:30 PM</td> <td>Sanaea Rose</td>  </tr>
+<tr>     <td>3:32 PM</td> <td>Zhuo Chen</td>  </tr>
+<tr>     <td>3:34 PM</td> <td>Michael Rich</td>  </tr>
+<tr>     <td>3:36 PM</td> <td>Karina Barboza</td>  </tr>
+<tr>     <td>3:38 PM</td> <td>Anna Ciurlo</td>  </tr>
+<tr>     <td>3:40 PM</td> <td>Mark Morris</td>  </tr>
+<tr>     <td>3:42 PM</td> <td>Kevin Hayakawa</td>  </tr>
+<tr>     <td>3:44 PM</td> <td>William  Newman </td>  </tr>  
+<tr>     <td>3:46 PM</td> <td>concluding remarks</td>  </tr>  
+</table>
+--> 
+<!--
+ <table style="width:100%">                                                                                        
+                                                                                                                    
+</td> <td><b> Time </b></td> <td><b> Name </b></td>  </tr> 
+<tr>     <td>10:00</td> <td>Organizers</td>  </tr>
+<tr>     <td>10:02</td> <td>Jordan Runco</td>  </tr>
+<tr>     <td>10:04</td> <td>Jean-Luc Margot</td>  </tr>
+<tr>     <td>10:06</td> <td>Sara Gallagher</td>  </tr>
+<tr>     <td>10:08</td> <td>Matthew Yu</td>  </tr>
+<tr>     <td>10:10</td> <td>Alexander Stephan</td>  </tr>
+<tr>     <td>10:12</td> <td>Daniel Gilman</td>  </tr>
+<tr>     <td>10:14</td> <td>Hagai Perets</td>  </tr>
+<tr>     <td>10:16</td> <td>Peter Williams</td>  </tr>
+<tr>     <td>10:18</td> <td>Jon Zink</td>  </tr>
+<tr>     <td>10:20</td> <td>Anthony Pahl</td>  </tr>
+<tr>     <td>10:22</td> <td>Jamie Ryan</td>  </tr>
+<tr>     <td>10:24</td> <td>Tuan Do</td>  </tr>
+<tr>     <td>10:26</td> <td>Aidan Gibbs</td>  </tr>
+<tr>     <td>10:28</td> <td>Alec Vinson</td>  </tr>
+<tr>     <td>10:30</td> <td>Rick Mebane</td>  </tr>
+<tr>     <td>10:32</td> <td>Brandon Stevenson</td>  </tr>
+<tr>     <td>10:34</td> <td>Alice Shapley</td>  </tr>
+<tr>     <td>10:36</td> <td>Bao-Minh Hoang</td>  </tr>
+<tr>     <td>10:38</td> <td>Isabel Angelo</td>  </tr>
+<tr>     <td>10:40</td> <td>Daniel Cohen</td>  </tr>
+<tr>     <td>10:42</td> <td>Judah Van Zandt</td>  </tr>
+<tr>     <td>10:44</td> <td>Smadar Naoz</td>  </tr>
+<tr>     <td>10:46</td> <td>Kevin Hayakawa</td>  </tr>
+<tr>     <td>10:48</td> <td>Anna Ciurlo</td>  </tr>
+<tr>     <td>10:50</td> <td>Yeou Chiou</td>  </tr>
+<tr>     <td>10:52</td> <td>Adam Trapp</td>  </tr>
+<tr>     <td>10:54</td> <td>Erik Petigura</td>  </tr>
+<tr>     <td>10:56</td> <td>Matthew Hosek</td>  </tr>
+<tr>     <td>10:58</td> <td>Shelley Cheng</td>  </tr>
+<tr>     <td>11:00</td> <td>Will Misener</td>  </tr>
+<tr>     <td>11:02</td> <td>Abhimat Gautam</td>  </tr>
+<tr>     <td>11:04</td> <td>Matt Malkan</td>  </tr>
+<tr>     <td>11:06</td> <td>Rory Bentley</td>  </tr>
+<tr>     <td>11:08</td> <td>Sanaea Rose</td>  </tr>
+<tr>     <td>11:10</td> <td>Ronald Lopez</td>  </tr>
+<tr>     <td>11:12</td> <td>Itai Linial</td>  </tr>
+<tr>     <td>11:14</td> <td>Edward Wright</td>  </tr>
+<tr>     <td>11:16</td> <td>Veronica Dike</td>  </tr>
+<tr>     <td>11:18</td> <td>Kelly Kosmo O'Neil</td>  </tr>
+<tr>     <td>11:20</td> <td>Mason MacDougall</td>  </tr>
+<tr>     <td>11:22</td> <td>Briley Lewis</td>  </tr>
+<tr>     <td>11:24</td> <td>Michael Rich</td>  </tr>
+<tr>     <td>11:26</td> <td>Katelyn Horstman</td>  </tr>
+<tr>     <td>11:28</td> <td>Xuheng Ding</td>  </tr>
+<tr>     <td>11:30</td> <td>Isabella Trierweiler</td>  </tr>
+<tr>     <td>11:32</td> <td>Devin Chu</td>  </tr>
+<tr>     <td>11:34</td> <td>Ruo-Yu Shang</td>  </tr>
+<tr>     <td>11:36</td> <td>Brad Hansen</td>  </tr>
+<tr>     <td>11:38</td> <td>Thomas Schmidt</td>  </tr>
+<tr>     <td>11:40</td> <td>Shoko Sakai</td>  </tr>
+<tr>     <td>11:42</td> <td>Guido Roberts-Borsani</td>  </tr>
+<tr>     <td>11:44</td> <td>Lilan Yang</td>  </tr>
+<tr>     <td>11:46</td> <td>Organizers</td>  </tr>
+
+<tr>     <td> >11:48</td> <td><b> Bash and lunch on the patio </b> </td>  </tr>                                                
+</table>
+-->  
+<!--
+<br>
+<p>
+<table style="width:100%">
+<tr> 
+<td>
+<img src="Pics17/I1.png" style="width:380px;" > </td> <td align="center"> <img src="Pics17/I2.png" style="width:380px;" > </td> </tr>
+<td>
+<img src="Pics17/I3.png" style="width:380px;" > </td> <td align="center"> <img src="Pics17/I4.png" style="width:380px;" > </td> </tr>
+
+</table>
+</p>
+-->
+<!--
+<p>
+                                                                                                                                                   
+       <h1> <b> Talk schedule </b></h1>                                           
+  <table style="width:100%">    
+
+</td> <td><b> Time </b></td> <td><b> Name </b></td>  </tr>
+<tr>     <td> 2:00</td> <td>Organizers</td>  </tr>
+<tr>     <td> 2:05</td> <td>Mike Fitzgerald</td>  </tr>
+<tr>     <td> 2:07</td> <td>Xuheng Ding</td>  </tr>
+<tr>     <td> 2:09</td> <td>Helen Kim</td>  </tr>
+<tr>     <td> 2:11</td> <td>Anna Ciurlo</td>  </tr>
+<tr>     <td> 2:13</td> <td>Kevin T. Hayakawa</td>  </tr>
+<tr>     <td> 2:15</td> <td>Matt Hosek</td>  </tr>
+<tr>     <td> 2:17</td> <td>Jean-Luc Margot</td>  </tr>
+<tr>     <td> 2:19</td> <td>Abhimat Gautam</td>  </tr>
+<tr>     <td> 2:21</td> <td>Yeou Chiou</td>  </tr>
+<tr>     <td> 2:23</td> <td>Planetarium</td>  </tr>
+<tr>     <td> 2:25</td> <td>Jamie Ryan</td>  </tr>
+<tr>     <td> 2:27</td> <td>Mark Morris</td>  </tr>
+<tr>     <td> 2:29</td> <td>Xin Wang</td>  </tr>
+<tr>     <td> 2:31</td> <td>Michelle Consiglio</td>  </tr>
+<tr>     <td> 2:33</td> <td>Rory Bentley</td>  </tr>
+<tr>     <td> 2:35</td> <td>Akash Gupta</td>  </tr>
+<tr>     <td> 2:37</td> <td>Matt Malkan</td>  </tr>
+<tr>     <td> 2:39</td> <td>Alexander Stephan</td>  </tr>
+<tr>     <td> 2:41</td> <td>--</td>  </tr>
+<tr>     <td> 2:43</td> <td>Ronald A. Lopez</td>  </tr>
+<tr>     <td> 2:45</td> <td>Mathew Yu</td>  </tr>
+<tr>     <td> 2:47</td> <td>Michael Topping</td>  </tr>
+<tr>     <td> 2:49</td> <td>Briley Lewis</td>  </tr>
+<tr>     <td> 2:51</td> <td>Devin Chu</td>  </tr>
+<tr>     <td> 2:53</td> <td>Danny Cohen</td>  </tr>
+<tr>     <td> 2:55</td> <td>Veronica Dike</td>  </tr>
+<tr>     <td> 2:57</td> <td> Ned Wright</td>  </tr>
+<tr>     <td> 2:59</td> <td>Daniel Gilman</td>  </tr>
+<tr>     <td> 3:01</td> <td>Isabella Trierweiler</td>  </tr>
+<tr>     <td> 3:03</td> <td>Jean Turner</td>  </tr>
+<tr>     <td> 3:05</td> <td>Jon Zink</td>  </tr>
+<tr>     <td> 3:07</td> <td> Kelly Cosmo O'Neil </td>  </tr>
+<tr>     <td> 3:09</td> <td>Lilan Yang</td>  </tr>
+<tr>     <td> 3:11</td> <td>Mason MacDougall</td>  </tr>
+<tr>     <td> 3:13</td> <td>Richard Mebane</td>  </tr>
+<tr>     <td> 3:15</td> <td>Jesus Salas</td>  </tr>
+<tr>     <td> 3:17</td> <td>Michael Rich</td>  </tr>
+<tr>     <td> 3:19</td> <td>Jordan Runco</td>  </tr>
+<tr>     <td> 3:21</td> <td>Tony Pahl</td>  </tr>
+<tr>     <td> 3:23</td> <td>Zhuo Chen</td>  </tr>
+<tr>     <td> 3:25</td> <td>Austin Hoag</td>  </tr>
+<tr>     <td> 3:27</td> <td>Simon Birrer</td>  </tr>
+<tr>     <td> 3:29</td> <td>Adam Trapp</td>  </tr>
+<tr>     <td> 3:31</td> <td>Smadar Naoz</td>  </tr>
+<tr>     <td> 3:33</td> <td>Alec Vinson</td>  </tr>
+<tr>     <td> 3:35</td> <td>Sanaea Rose</td>  </tr>
+<tr>     <td> 3:37</td> <td>Peter Williams</td>  </tr>
+<tr>     <td> 3:39</td> <td>Alice Shapley</td>  </tr>
+<tr>     <td> 3:41</td> <td>closing remarks  </td>  </tr>
+<tr>     <td> >3:45</td> <td><b> Bash on the patio </b> </td>  </tr>
+</table>
+-->                                                                           
+   <!--                                                                                                                                                     
+           <table style="width:100%">    
+
+ <tr>     <td>    <b>Time</b>     </td> <td> <b> Name </b></td>   <td> <b>        Title</b>       </td>   </tr>
+ <tr>     <td>  11:00 </td> <td> Organizers </td>   <td> Few words from the organizers</td>  </tr> 
+<tr> <td>11:02  </td> <td>Jon Zink  </td> <td>Exoplanet Demographics </td>   </tr>
+<tr> <td>11:04  </td> <td>Zhuo Chen  </td> <td>Lightcurve of Sgr A* 1995-2005 </td>   </tr>
+<tr> <td>11:06  </td> <td>Yeou Chiou  </td> <td>The Stream Velocity Effect </td>   </tr>
+<tr> <td>11:08  </td> <td>Gunther Witzel  </td> <td>IRAC Monitoring of Agr A* </td>   </tr>
+<tr> <td>11:10  </td> <td>Alec Vinson  </td> <td>Near-Resonant Companions' Effects of Planetary Spins </td>   </tr>
+<tr> <td>11:12  </td> <td>Tommaso Treu  </td> <td>The Invisible Universe (and those Pesky Baryons) </td>   </tr>
+<tr> <td>11:14  </td> <td>Michael Topping  </td> <td>Substructure in the SSA22 Protocluster </td>   </tr>
+<tr> <td>11:16  </td> <td>Kevin Stahl  </td> <td>Tracking Polarization Spots </td>   </tr>
+<tr> <td>11:18  </td> <td>S. Michelle Consiglio  </td> <td>Highly Efficient Starforming Regions in the (Sub-)mm </td>   </tr>
+<tr> <td>11:20  </td> <td>Pauline Arriaga  </td> <td>OSIRIS Upgrade + GPI </td>   </tr>
+<tr> <td>11:22  </td> <td>Peter Williams  </td> <td>Modeling Broad Line Regions to Measure Black Hole Masses </td>   </tr>
+<tr> <td>11:24  </td> <td>Brittany Miles  </td> <td> </td>   </tr>
+<tr> <td>11:26  </td> <td>Mike Fitzgerald  </td> <td>IR Instrumentation </td>   </tr>
+<tr> <td>11:28  </td> <td>Mike Rich  </td> <td>Pan Andromeda Archaeological Survey + HERON </td>   </tr>
+<tr> <td>11:30  </td> <td>Shoko Sakai  </td> <td>The Absolute Reference Frame of the Galactic Center </td>   </tr>
+<tr> <td>11:32  </td> <td>Jordan Mirocha  </td> <td>21-cm Modeling of Early Galaxy Formation </td>   </tr>
+<tr> <td>11:34  </td> <td>Rick Mebane  </td> <td>Modeling the Formation of the First Stars </td>   </tr>
+<tr> <td>11:36  </td> <td>Matt Buchovecky  </td> <td>VHE Emission from the Galactic Center </td>   </tr>
+<tr> <td>11:38  </td> <td>Mathew Yu  </td> <td>(Exo)Planetary System Dynamics </td>   </tr>
+<tr> <td>11:40  </td> <td>Charlotte Mason  </td> <td>Modeling Reionization together with High-z Galaxies </td>   </tr>
+<tr> <td>11:42  </td> <td>Matt Malkan  </td> <td>Extreme [OIII] Emitters at z ~0.5 </td>   </tr>
+<tr> <td>11:44  </td> <td>Louis Abramson  </td> <td>The Spatially Resolved Biographies of z > 1 Galaxies </td>   </tr>
+<tr> <td>11:46  </td> <td>James Larkin  </td> <td>IR Instruments and Extragalactic Observations </td>   </tr>
+<tr> <td>11:48  </td> <td>Helen Kim  </td> <td>Dusty Starforming Galaxies </td>   </tr>
+<tr> <td>11:50  </td> <td>Kiera Fuller  </td> <td>High Energy Astrophysics at the South Pole </td>   </tr>
+<tr> <td>11:52  </td> <td>Kevin Hayakawa  </td> <td>Simulations of the Origin of Debris Disks </td>   </tr>
+<tr> <td>11:54  </td> <td>Nitya Kallivayalil  </td> <td>Near Field Cosmology </td>   </tr>
+<tr> <td>11:56  </td> <td>Jamie Ryan  </td> <td>GAPS in My Resume </td>   </tr>
+<tr> <td>11:58  </td> <td>Isabella Goetting  </td> <td>The Evolution of Planetary and Stellar Obliquity due to Migrating Hot Jupiters </td>   </tr>
+<tr> <td>12:00  </td> <td>Aurelien Hees  </td> <td>Does Gravity Work as Expected around Supermassive Black Holes? </td>   </tr>
+<tr> <td>12:02  </td> <td>Daniel Gilman  </td> <td>Lensing Substructure </td>   </tr>
+<tr> <td>12:04  </td> <td>Steve Furlanetto  </td> <td>Cosmic Dawn </td>   </tr>
+<tr> <td>12:06  </td> <td>Ned Wright  </td> <td>IR Asteroid Surveys from Space </td>   </tr>
+<tr> <td>12:08  </td> <td>Xinnan Du  </td> <td>Evolution of the CGM in LBGs </td>   </tr>
+<tr> <td>12:10  </td> <td>Jean-Luc Margot  </td> <td>Dynamics geodesy and geophysics of planets
+satellites and small bodies + SETI </td>   </tr>
+<tr> <td>12:12  </td> <td>Emily Martin  </td> <td>Low Mass Stars and Brown Dwarfs </td>   </tr>
+<tr> <td>12:14  </td> <td>Paul Denham  </td> <td>Stability of 4-Body Systems </td>   </tr>
+<tr> <td>12:16  </td> <td>Devin Chu  </td> <td>Stellar Spectroscopy of the Galactic Center </td>   </tr>
+<tr> <td>12:18  </td> <td>Brad Hansen  </td> <td>Theoretical Modeling of Exoplanet Structure and Evolution </td>   </tr>
+<tr> <td>12:20  </td> <td>Simon Birrer  </td> <td>Strong Lensing </td>   </tr>
+<tr> <td>12:22  </td> <td>Ralph Bird  </td> <td>VERITAS + High Energy Astrophysics </td>   </tr>
+<tr> <td>12:24  </td> <td>Smadar Naoz  </td> <td>Dynamics is Everywhere </td>   </tr>
+<tr> <td>12:26  </td> <td>Bao Minh Hoang  </td> <td>Binary Black Hole Mergers in Galactic Centers </td>   </tr>
+<tr> <td>12:28  </td> <td>Alexander Stephan  </td> <td>Throwing Icebergs at White Dwarfs </td>   </tr>
+<tr> <td>12:30  </td> <td>Anowar Shajib  </td> <td>Cosmology with Gravitational Lenses </td>   </tr>
+<tr> <td>12:32  </td> <td>Anna Ciurlo  </td> <td>Gas at the Galactic Center </td>   </tr>
+<tr> <td>12:34  </td> <td>Andrea Ghez  </td> <td>[Galactic Center AO Observations] </td>   </tr>
+<tr> <td>12:36  </td> <td>Alice Shapley  </td> <td>MOSDEF: Rest-optical Spectra at High z </td>   </tr>
+<tr> <td>12:38  </td> <td>Adam Trapp  </td> <td>BAaDE SiO Masers </td>   </tr>
+<tr> <td>12:40  </td> <td>Mark Morris </td> <td> </td>   </tr> 
+<tr> <td>12:42  </td> <td>Abhimat Gautam  </td> <td>Galactic Center Stellar Variability and Eclipsing Binaries </td>   </tr>
+<tr> <td>12:44  </td> <td>Veronica Dike  </td> <td>Introducing Myself </td>   </tr>
+<tr> <td>12:46  </td> <td>Kelly Kosmo O'Neil  </td> <td>Improving Estimates for Incomplete Orbits with a New Approach to Priors </td>   </tr>
+<tr> <td>12:48  </td> <td>Ronald Lopez  </td> <td>[No title] </td>   </tr>
+<tr> <td>12:50  </td> <td>Sanaea Rose  </td> <td>Evolution of High-mass Binary Stars </td>   </tr>
+<tr> <td>12:52  </td> <td>Anthony Pahl  </td> <td>Optimizing JWST Observations for Nearby Galaxies </td>   </tr>
+<tr> <td>12:54  </td> <td>Arezu Dehghanfar   </td> <td> </td>   </tr>
+
+ </table>
+-->
+</p>
+<!--       
+    -->    
+
+        
+        
+      </div>
+    </div>
+    <!--
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
+      <p>Copyright ï¿½ simplestyle_5 | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>
+</p>
+    </div>-->
+  </div>
+</body></html>

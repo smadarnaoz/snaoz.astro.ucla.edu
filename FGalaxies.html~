@@ -1,0 +1,194 @@
+<!DOCTYPE HTML>
+<html><head><title>Smadar's Research</title><meta name="description" content="website description"><meta name="keywords" content="website keywords, website keywords"><meta http-equiv="content-type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="style/style.css"></head><body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Naoz's First Galaxies<span class="logo_colour"></span></a></h1>
+         <h2>Department of Physics & Astronomy, Division of Astronomy and Astrophysics, UCLA</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu"><!-- put class="selected" in the li tag for the selected page - to highlight which page you're on --><li ><a href="index.html">Home</a></li>
+          <li class="selected"><a href="Research.html">Research</a></li>
+	  <li  ><a href="Education.html">Education  &amp; Outreach</a></li>
+<!--
+	  <li  ><a href="Teaching.html">Teaching</a></li>
+          <li><a href="Links.html">Links</a></li> -->
+         <!--  <li><a href="Outreach.html">Outreach </a></li> -->
+          <li><a href="IntheMedia.html">In the Media</a></li>
+ <li><a href="Personal.html">Personal</a></li>
+        </ul></div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <h1>Contact Information</h1>
+<p>Email: snaoz@astro.ucla.edu </p> <p> Mailing:Physics and Astronomy Building
+430 Portola Plaza, Box 951547
+Los Angeles, CA 90095-1547  <br> Office: 3-907 </p>
+</p>
+
+        <h1>CV:  (<a href="Smadarcv.pdf">pdf</a>)</h1>
+
+      
+        </ul>
+        <h1>Publications:
+        (<a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PRE&qform=AST&sim_query=YES&ned_query=YES&aut_logic=OR&obj_logic=OR&author=Naoz&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=100&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1">ADS</a>)</h1>
+
+      </div>
+      <div id="content">
+        <h1>Research</h1>
+
+      <div id="submenubar"> 
+<div  class="submenu">
+        <ul><!-- put class="selected" in the li tag for the selected page - to highlight which page you're on --><li >|<a href="Research.html" >My Research</a>
+<a href="FGalaxies.html"  class="current">The First Galaxies</a>|<a href="HJs.html" >Hot Jupiters</a>|        
+         <!--  <li><a href="Outreach.html">Outreach </a></li> -->
+ <a href="Dynamics.html">Dynamics </a>|</li>
+ 
+        </ul></div>
+    </div> 
+<p>
+<hr>
+<br>
+
+<h2> The First Galaxies in the Universe: the Contribution of Gas  </h2>
+
+
+The cosmic microwave background (CMB) radiation is an electromagnetic
+radiation at frequencies in the microwave range, which arrives at
+Earth with equal intensity in all directions. This is evidence for an
+important event in the history of the universe, about 400,000 years
+after the Big Bang, namely the cosmic recombination. At recombination
+the electrons and protons formed hydrogen atoms, thus making the
+universe transparent to radiation. 
+<br>      
+<br>
+Observations of the CMB show that the universe at cosmic recombination
+was remarkably uniform, apart from spatial fluctuations in the gas
+density and in the gravitational force of roughly one part in
+100,000. The primordial inhomogeneities in the density distribution
+continued to grow and led to the formation of galaxies at more recent
+times. Therefore these small-amplitude perturbations at recombination
+can be regarded as the initial conditions for the formation of
+galaxies. About 30 million years after recombination the first
+sources of light appeared, their radiation began to heat the cosmic
+gas, and finally even reionized it (i.e., split it back to the
+constituent protons and electrons).  The repercussions of the
+appearance of these first galaxies is still an enigma, and is thus
+interesting to study. 
+    <br>  
+<br>
+Different physical processes contribute to the growth of small
+perturbations in the gas density and temperature. One of the
+interesting properties of the gas is its temperature fluctuations.
+Prior analyses assumed a spatially uniform speed of sound for the
+gas. This assumption means that the gas density fluctuations are
+proportional to its temperature fluctuations at any given time.  In <a href="http://adsabs.harvard.edu/abs/2005MNRAS.362.1047N"> Naoz & Barkana 2005 </a> we
+have calculated the fluctuation growth and shown that the revised
+calculation has substantial consequences for the evolution of the
+cosmic gas. 
+      <br>
+<br>
+This corrected calculation can now be used for other physical
+processes that happened at later times in the universe, especially in
+the era after the first galaxies appeared and began to heat up the
+gas. The pressure of the hot gas opposed the gravitational forces and
+prevented some of the galaxies from forming. 
+      <br>
+<br>
+The formation of the first galaxies in the universe has been studied
+for many years. The simplest calculation considers a spherical region
+initially with a small uniform density enhancement compared to the
+background universe. As the universe expands the overdensity expands
+slower than the background, due to the gravitational pull, until it
+reaches a maximum radius, and turns around and collapses. In  <a href="http://adsabs.harvard.edu/abs/2007MNRAS.377..667N"> Naoz & Barkana 2007 </a>
+ we have
+performed a more precise calculation, including all the physical
+ingredients that are known today. This has various applications, such
+as for the abundance of galaxies as a function of mass at various
+times, and most importantly for the formation of the first galaxy in
+the Universe. 
+      <br>
+<br>
+Extensive work has been done on the formation of the first galaxy,
+especially using an advance computer calculations which try to
+simulate the formation of the first galaxy or star. However, even the
+most advance simulation has too low a resolution, at least eleven
+orders of magnitude from the required resolution, due to computational
+limitations. Using the calculation mentioned before, in <a href="http://adsabs.harvard.edu/abs/2006MNRAS.373L..98N"> Naoz, Noter & Barkana 2006 </a> we have estimated
+the time of the formation of the first galaxies. This includes
+statistical considerations which are now included correctly in our
+revised analysis. 
+<br>
+
+<br>
+We have found that the first observable star is most likely to have
+formed 30 million years after the Big Bang, much earlier than
+previously expected. Also the first galaxy as massive as our own Milky
+Way likely formed when the universe was only 400 Myr old. 
+<br><br>
+ These high redshift gas-rich halos may very well be a nurturing ground for dwarf galaxies, which at high redshift can form stars perhaps even at a high star formation rate , and thus, may produce a clear signature on the 21cm signal. Moreover, halos that are too small for efficient cooling via atomic hydrogen, and did not host astrophysical sources, still contribute to the 21-cm signal since they can block ionizing radiation and produce an overall delay in the initial progress of reionization. Thus, investigating the formation properties of these halos is of prime importance. 
+
+<br><br>
+In those early objects the pressure of the gas may suppresses the
+gravitational collapse. In <a href="http://adsabs.harvard.edu/abs/2007MNRAS.377..667N"> Naoz & Barkana 2007 </a> we have preformed a calculation in order to
+evaluate a characteristic scale that describes the highest mass of
+which the pressure suppresses growth.  In other-words the pressure
+cannot be neglected for masses lower than this scale. We have found
+that this scale is lower than previous estimation, and therefore the
+effect of pressure in the formation of the first galaxies is only a
+moderate.  
+<br><br>
+The formation of the first generation of galaxies in the universe has been studied for many years, using different computational tools. On one hand, high-resolution simulations can describe very accurately and reliably complex gas processes and gravitational interactions. On the other hand, analytical calculations can be used to provide a physical intuition, understanding some results of simulations as well as some of the effects of the limited resolution and decouple the various physical effects. Combining the two approaches offers many of advantages, which is the apporoch we took in <a href="http://adsabs.harvard.edu/abs/2009MNRAS.399..369N"> Naoz, Barkana & Mesinger 2009 </a>
+and 
+<a href="http://adsabs.harvard.edu/abs/2010arXiv1009.0945N"> Naoz, Yoshida & Barkana 2011</a>.
+<br><br>
+      The initial conditions (hereafter ICs) in a cosmological simulation can have a large effect on the formation of the first galaxies in simulations, i.e., both on the formation time (or on the halo abundance at a given time) and the halo properties at formation time (such as the average gas fraction).
+<br><br>
+In<a href="http://adsabs.harvard.edu/abs/2010arXiv1009.0945N"> Naoz, Yoshida & Barkana 2011</a>  we test three different linear power spectra for the initial conditions: (1) A complete heating model, which is our fiducial model; this model follows the evolution of overdensities correctly, according to Naoz & Barkana 2005, in particular including the spatial variation of the speed of sound of the gas due to Compton heating from the CMB. (2) An equal-delta model, which assumes that the initial baryon fluctuations are equal to those of the dark matter. (3) A model which assumes a uniform speed of sound of the gas. The latter two models are often used in the literature. We calculate the baryon fractions for a large sample of halos in our Gadet-2 simulations. We also tested these latter two model using AMR. Our fiducial model implies that before reionization and significant stellar heating took place, the minimum mass needed for a minihalo to keep most of its baryons throughout its formation was ~3e4 solar masses. However, the alternative models yield a wrong (higher by about 50\%) minimum mass, since the system retains a memory of the initial conditions. We also showed that the minimum mass that suppresses the growth of baryonic fluctuations (due to pressure) as predicted from linear theory is consistent with the minimum mass needed for a minihalo to keep most of its baryons throughout its formation.
+<br><br>
+More soon on the stream velocity...
+
+<h2> The First Generations Galaxies and 21cm Fluctuations </h2>
+
+New observations over the next few years of the emission of more
+distant objects, which is analogous to earlier times in the universe,
+will help unfold the chapter in cosmic history around the era of the
+first galaxies. These observations will use the neutral hydrogen
+properties as a detector of the hydrogen abundance.  Neutral hydrogen
+is known to emit and absorb radiation in the radio range, more
+specifically at a wavelength of 21cm, equivalent to a frequency of
+1420MHz.  This radiation comes from the transition between the two
+levels of energy of the hydrogen lowest energy state (ground state).
+Before the first sources of radiation began to reionize the gas, the
+occurrence of neutral gas offers a prospect of tracing the cosmic gas,
+and probing the first radiation sources. 
+      <br><br>
+
+Understanding the physics in detail will help to predict the
+properties of 21cm observations, and to construct a cosmological
+model that fits the observed features of the universe. The upcoming
+21cm observations will provide a great opportunity for testing our
+predictions. 
+<br><br>
+The UV radiation from stars at that era coupled the properties of the 21cm signal with the distribution of the first galaxies. This coupling is due to a scattering of UV light on the neutral hydrogen, resulting in an effect where the object seems larger (Loeb & Rybicki 1999, like looking on a flashlight through a fog). In <a href="http://adsabs.harvard.edu/abs/2008MNRAS.385L..63N"> Naoz & Barkana 2008 </a> we have conducted an accurate analysis of this coupling including the ionized gas bubble around each galaxy.
+<br><br>
+We assume a uniform neutral IGM that exhibits pure Hub- ble expansion around a steady point source. The surrounding IGM, mainly natural hydrogen, is optically thick to the UV radiation that the source emits. We use a Monte- Carlo method for the scattering (Loeb & Rybicki 1999), for photons of various initial frequencies between Ly-alpha and the Lyman limit. The 21cm signal is coupled to the Ly-alpha via the Wouthuysen and Filed effect (Wouthuysen 1952; Field 1958) whereby atoms re-emitting Ly-alpha photons can de-excite into either of the hyperfine states.
+<br><br>
+We explicitly include the ionized hydrogen (HII) region around each source, which results in enhanced Ly-alpha scattering just outside the II region; the enhancement of the flux has a shallower rise to a peak value and then drops to zero right near the HII region, because of the loss of photons that are sctered back into the HII region.
+<br><br>
+This result in a clear signature on the 21cm signal which can be used to detect and study the population of galaxies that formed just 200Myr after the big bang. This signature will allow the upcoming observations to study and identify the first generations of galaxies.
+
+
+
+</p>
+</div>
+</div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="Research.html">Research</a> | <a href="Education.html">Education  &amp; Outreach</a> | <a href="IntheMedia.html">In the Media</a> | <a href="Personal.html">Personal</a> </p>
+
+    </div>
+  </div>
+</body></html>

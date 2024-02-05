@@ -1,0 +1,226 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>The Supersonic Project</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+				
+                        
+                        <!-- Nav -->
+                                            <nav id="nav">
+                                                <ul>
+                                                    <li ><a href="index.html">Home</a></li>
+                                                    <li ><a href="SIGOs.html">SIGOs</a></li>
+                                                    <li><a href="People.html">People</a></li>
+                                                     <li><a href="Publications.html">Publications</a></li>
+                                            <li><a href="media.html">Images/videos</a></li>
+						    <li  class="current"><a href="Meeting2023.html">Meeting</a></li>
+                                                </ul>
+                                            </nav>
+
+                                    </div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div id="content">
+
+							<!-- Content -->
+<span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+                            
+								<article>
+									
+                                    <h2>Collaboration Meeting</h2>
+                                                    <p> Our supersonic project collaboration meeting will take place Monday, March 27th - Wednesday, March 29th. </p>                    
+<p> <b>Venue:</b>  <a href="https://www.google.com/maps/place/Physics+and+Astronomy+Building/@34.0726516,-118.4421224,16.39z/data=!4m6!3m5!1s0x80c2bc886818c4ef:0x22d9f00383ef4320!8m2!3d34.0708122!4d-118.4417827!16s%2Fg%2F12hmnb5nx">UCLA's Physics and Astronomy building</a>. The talks will take place in the 3rd-floor conference room, known as PAB 3-703.
+ 
+The breakfast and coffee breaks will take place on the 3rd-floor patio (or in the Astro-reading room if weather conditions are less than favorable).  </p>
+
+<p> <b>Schedule</b>
+<br>
+
+<h3> Monday, March 27</h3> 
+<table>
+
+ <tr>
+    <td><font style="color:purple;"><b>Time</b></font></td>
+    <td><font style="color:purple;"><b>Event/speaker </b></font></td>
+    <td> <font style="color:purple;"><b>Details </b></font></td>
+  </tr>
+
+ <tr>
+    <td>9:30am</td>
+    <td>Breakfast and meetup</td>
+    <td> </td>
+  </tr>
+ <tr>
+    <td>10am</td>
+    <td>Introductions</td>
+    <td> </td>
+  </tr>
+ <tr>
+    <td>10:15am</td>
+    <td>Smadar Naoz</td>
+    <td> The supersonic project - an overall view</td>
+  </tr>
+ <tr>
+    <td>10:30am</td>
+    <td>William Lake </td>
+    <td> SIGOs evolution and star formation</td>
+  </tr>
+<tr>
+    <td>11am</td>
+    <td>Yurina Nakazato </td>
+    <td> H2 cooling of gravitational collapse of SIGOs with high-resolution simulationsn</td>
+  </tr>
+
+<tr>
+    <td>11:30am</td>
+    <td> discussion: </td>
+    <td> the definition of a SIGO and its evolution  </td>
+  </tr>
+<tr>
+ <td>12:00am</td>
+    <td> Lunch break </td>
+    <td> Westwood or on campus  </td>
+  </tr>
+ <tr>
+    <td>2:00pm</td>
+    <td>Blakesley Burkhart </td>
+    <td> Statistics of Turbulence and Star Formation</td>
+  </tr>
+ <tr>
+    <td>2:30pm</td>
+    <td>Mike Grudić </td>
+    <td> STARFORGE</td>
+  </tr>
+ <tr>
+    <td>3:00pm</td>
+    <td>coffee break +  discussion </td>
+    <td> SIGOs star formation and the role of turbulence</td>
+  </tr>
+ <tr>
+    <td>4:00pm</td>
+    <td>Breakout sessions - self-selective:  </td>
+    <td> (1) technical questions on running codes break - helping session for running AREPO and/or STARFORGE if needed <br> (2) strategic planning for the next ATP/NSF cycle</td>
+  </tr>
+
+</table>
+
+<h3> Tuesday, March 28</h3> 
+<table>
+
+ <tr>
+    <td><font style="color:purple;"><b>Time</b></font></td>
+    <td><font style="color:purple;"><b>Event/speaker </b></font></td>
+    <td> <font style="color:purple;"><b>Details </b></font></td>
+  </tr>
+
+ <tr>
+    <td>9:30am</td>
+    <td>Breakfast</td>
+    <td> </td>
+  </tr>
+ <tr>
+    <td>10am</td>
+    <td>Claire Williams</td>
+    <td> DM GHOSts and their morphology/rotation</td>
+  </tr>
+
+ <tr>
+    <td>10:30am</td>
+    <td>Shail Hegde</td>
+    <td> A Semi-Analytic Model for High-Redshift Star Formation</td>
+  </tr>
+
+ <tr>
+    <td>11:00am</td>
+    <td>Federico Marinacci </td>
+    <td> Star formation and feedback/Zoom-in simulations</td>
+  </tr>
+<tr> 
+<td>11:30am </td>
+<td>discussion</td>
+<td>DM GHOSts - what are they? + star formation, and feedback in the presence of the stream velocity</td>
+</tr>
+<tr>
+ <td>12:00am</td>
+    <td> Lunch break </td>
+    <td> Westwood or on campus  </td>
+  </tr>
+
+<tr> 
+<td> </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr> 
+<td> </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr> 
+<td> </td>
+<td></td>
+<td></td>
+</tr>
+
+<tr> 
+<td> </td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+ </p>
+
+
+                           
+								</article>
+
+						</div>
+					</div>
+				</section>
+
+	  <font size="+1">  <b> &nbsp; &nbsp; &nbsp; Funding sources</b></font>
+                       <br>
+
+                         &nbsp; &nbsp;   &nbsp;  <img src="images/NASA.png" alt="example graphic"  style="width:100px;" >
+                                <img src="images/XSEDE.png" alt="example graphic"  style="width:200px;" >
+                                    
+                                <!-- Copyright -->
+                                    <div class="copyright">
+                                        <ul class="menu">
+                                        &nbsp; &nbsp; &nbsp;     <li>&copy;  All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                                        </ul>
+                                    </div>
+
+                            </div>
+
+                    </div>
+
+                    <!-- Scripts -->
+                        <script src="assets/js/jquery.min.js"></script>
+                        <script src="assets/js/jquery.dropotron.min.js"></script>
+                        <script src="assets/js/browser.min.js"></script>
+                        <script src="assets/js/breakpoints.min.js"></script>
+                        <script src="assets/js/util.js"></script>
+                        <script src="assets/js/main.js"></script>
+
+                </body>
+            </html>

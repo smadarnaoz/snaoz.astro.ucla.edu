@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Reddened 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20131026d
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Smadar Naoz</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if IE 6]>
+<link href="default_ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h2><a href="index.html">Smadar Naoz</a></h2>
+				<p style="font-size:18px">Department of Physics & Astronomy, Division of Astronomy and Astrophysics, UCLA </p>
+			</div>
+              <!--
+			<div id="social">
+				<ul class="contact">
+					<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
+					<li><a href="#" class="icon icon-facebook"><span></span></a></li>
+					<li><a href="#" class="icon icon-dribbble"><span>Pinterest</span></a></li>
+					<li><a href="#" class="icon icon-tumblr"><span>Google+</span></a></li>
+					<li><a href="#" class="icon icon-rss"><span>Pinterest</span></a></li>
+				</ul>
+			</div>
+               -->
+		</div>
+		<div id="menu" class="container">
+			<ul>
+				<li class="current_page_item"><a href="index.html" accesskey="1" title="">Home</a></li>
+				<li><a href="NaozResearch.html" accesskey="1" title="">Research</a></li>
+			<li><a href="NTODEI.html" accesskey="2" title="">Teaching, Outreach  &amp; DEI</a></li>
+                  <li><a href="NMedia.html" accesskey="4" title="">In the Media</a></li>
+                <li><a href="NaozPersonal.html" accesskey="5" title="">Personal</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="post">
+                <!--
+				<h2>Welcome to Smadar Naoz's website</h2> -->
+				<img src="images/SmadarNaozPic_n3.jpg" alt="" class="image image-half" >
+              
+             <p style="font-size:18px">     I am a professor at the <a href="http://www.pa.ucla.edu">Department of Physics & Astronomy, UCLA </a> in the <a href="http://www.astro.ucla.edu"> Division of Astronomy and Astrophysics </a>. I am also Howard and Astrid Preston Term Chair in Astrophysics. </p>
+<p style="font-size:18px">
+ I am a member of the <a href="http://bhaumik-institute.physics.ucla.edu/index.html"> Bhaumik Institute for Theoretical
+Physics</a> and serve in the executive committee.
+                </p>
+                <br> <br>
+               <p style="font-size:18px">
+I am interested in a broad range of theoretical astrophysics topics, emphasizing dynamical research problems from cosmology to black holes, Gravitational wave sources, stars, and extrasolar planets. My main research subject during my Ph.D. was the first generation of galaxies and 21cm fluctuations. I am also very interested in the theoretical challenges and problems in the dynamics of our solar and extrasolar planetary systems. Most notably, I have found a new mechanism that not only produces Jupiter-like planets in a very close proximity to their host star but can also explain the eccentric and even retrograde observed systems. This mechanism, which is based on triple-body interactions, appears to be dynamically rich and merits further investigation. In recent years, I have studied the underlying physics of triple-body systems and shown that these systems are far more exciting and richer than initially thought of in the past. These new developments are now being applied by the community to a diverse range of astrophysical systems at different scales.
+
+</p>
+<br>
+ <p style="font-size:18px"> Before joining UCLA I was  an  <a href="http://cxc.harvard.edu/fellows/"> Einstein Fellow </a> at the  <a href="http://www.cfa.harvard.edu/itc/"> ITC </a> - <a href="http://www.cfa.harvard.edu/"> Harvard-Smithsonian CfA.</a> Prior to that I was an <a href="http://www.iau.org/grants_prizes/gruber_foundation/fellowships/">IAU Gruber postdoctoral fellow</a>  at the  <a href="http://ciera.northwestern.edu/index.php">   Northwestern University, CIERA</a>. I did my PhD studies in the </a><a href="http://wise-obs.tau.ac.il/astro_depart.html">Department of Astronomy and Astrophysics</a>, </a>at the </a><a href="http://www.tau.ac.il"> Tel Aviv University</a>.
+ My PhD advisor was <a href="http://wise-obs.tau.ac.il/%7Ebarkana/">Rennan Barkana</a>.
+                  I graduated from the </a><a href="http://www.phys.huji.ac.il"> Racah institute</a> at </a><a href="http://www.huji.ac.il"> The Hebrew University</a>. My Master advisor was <a href="http://www.phys.huji.ac.il/%7Eshaviv">Nir Shaviv. </a></p>
+
+
+
+			
+			</div>
+            
+			
+		</div>
+        
+        
+		<div id="sidebar1">
+			<div>
+				<h2> Contact Information</h2>
+                
+                <p style="font-size:20px">Email: snaoz@astro.ucla.edu </p>
+                <p style="font-size:20px"> Mailing:Physics and Astronomy Building 430 Portola Plaza, Box 951547 Los Angeles, CA 90095-1547
+Office: 3-907 </p>
+<p style="font-size:20px"> CV:  (<a href="Smadarcv.pdf">pdf</a>) </p>
+<p style="font-size:20px">  Publications:
+        (<a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22naoz%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">ADS</a>) </p>
+        
+        
+	</div>
+		</div>
+	</div>
+    
+    
+	<div id="portfolio-wrapper">
+		<div id="portfolio" class="container">
+			<div class="title">
+				</div>
+            
+            <font size="+1">  <b> Funding sources</b></font>
+                                   <br>
+                                  
+                                    <img src="images/NASA.png" alt="example graphic"  style="width:100px;" >
+                                        <img src="images/NSF.png" alt="example graphic"  style="width:100px;" >
+                                        <img src="images/XSEDE.png" alt="example graphic"  style="width:200px;" >
+                                             <img src="images/Sloan.png" alt="example graphic"  style="width:160px;" >
+                                                 <img src="images/Hellman.png" alt="example graphic"  style="width:160px;" >
+                                                                                                    
+                                                                                            <br>
+                                            <br>
+                          <font size="+0.5">   Special thanks to Howard and Astrid Preston for their generous support </font>
+            <!--
+			<div class="column1">
+				<div class="box">
+					<h3>Vestibulum venenatis</h3>
+					<p>Fermentum nibh augue praesent a lacus at urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>
+			<div class="column2">
+				<div class="box">
+					<h3>Praesent scelerisque</h3>
+					<p>Vivamus fermentum nibh in augue praesent urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>
+			<div class="column3">
+				<div class="box">
+					<h3>Donec dictum metus</h3>
+					<p>Vivamus fermentum nibh in augue praesent urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>
+			<div class="column4">
+				<div class="box">
+					<h3>Mauris vulputate dolor</h3>
+					<p>Rutrum fermentum nibh in augue praesent urna congue rutrum.</p>
+					<a href="#" class="button">Etiam posuere</a> </div>
+			</div>  -->
+		</div>
+      
+	</div>
+</div>
+
+<div id="footer">
+	<p>&copy; Untitled. All rights reserved. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. Photos by <a href="http://fotogrph.com/">Fotogrph</a>.</p>
+</div>
+</body>
+</html>
